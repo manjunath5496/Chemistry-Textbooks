@@ -22,6 +22,7 @@ General, Organic, and Biological v. 1.0 </a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(9).pdf" style="text-decoration:none;">
 General Chemistry: Principles, Patterns, and Applications </a></li>      
-
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(10).pdf" style="text-decoration:none;">
+Organic Chemistry Laboratory Techniques </a></li>   
 
 </ul>
