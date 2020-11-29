@@ -33,3 +33,28 @@ Chemistry: Atoms First 2e </a></li>
 
 
 </ul>
+</br>
+<p><strong>General Chemistry I Lecture Notes </strong> [Dr. Michael Lufaso]</p>
+<ul>
+<li><a href="Chapter1.pdf" data-smd-id="s35">Chapter 1</a>&nbsp;Introduction: Matter and Measurement</li>
+<li><a href="Chapter2.pdf" data-smd-id="s37">Chapter 2</a>&nbsp;Atoms, Molecules, and Ions</li>
+<li><a href="Chapter3.pdf" data-smd-id="s39">Chapter 3</a>&nbsp;Chemical Reactions and Reaction Stoichiometry</li>
+<li><a href="Chapter4.pdf" data-smd-id="s41">Chapter 4</a>&nbsp;Aqueous Reactions and Solution Stoichiometry</li>
+<li><a href="Chapter5.pdf" data-smd-id="s43">Chapter 5</a>&nbsp;Thermochemistry</li>
+<li><a href="Chapter6.pdf" data-smd-id="s45">Chapter 6</a>&nbsp;Electronic Structure of Atoms</li>
+<li><a href="Chapter7.pdf" data-smd-id="s47">Chapter 7</a>&nbsp;Periodic Properties of the Elements</li>
+<li><a href="Chapter8.pdf" data-smd-id="s49">Chapter 8</a>&nbsp;Basic Concepts of Chemical Bonding</li>
+<li><a href="Chapter9.pdf" data-smd-id="s51">Chapter 9</a>&nbsp;Molecular Geometries and Bonding Theories</li>
+<li><a href="Chapter10.pdf" data-smd-id="s53">Chapter 10</a>&nbsp;Gases</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
