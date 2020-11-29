@@ -20,7 +20,8 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(8).pdf" style="text-decoration:none;">Introduction to Chemistry:
 General, Organic, and Biological v. 1.0 </a></li>                              
 
-
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(9).pdf" style="text-decoration:none;">
+General Chemistry: Principles, Patterns, and Applications </a></li>      
 
 
 </ul>
