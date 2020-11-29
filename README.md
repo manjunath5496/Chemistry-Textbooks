@@ -13,4 +13,14 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(3).pdf" style="text-decoration:none;"> Atoms, Molecules and Matter: The Stuff of Chemistry</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(4).pdf" style="text-decoration:none;">CLUE: Chemistry, Life, the Universe and Everything </a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(5).pdf" style="text-decoration:none;">Introductory Chemistry</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(6).pdf" style="text-decoration:none;">Analytical Chemistry 2.0</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(7).pdf" style="text-decoration:none;"> Introductory Chemistry &minus; 1st Canadian Edition</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(8).pdf" style="text-decoration:none;">Introduction to Chemistry:
+General, Organic, and Biological v. 1.0 </a></li>                              
+
+
+
+
 </ul>
