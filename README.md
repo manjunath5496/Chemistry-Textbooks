@@ -1377,7 +1377,112 @@ Bioorganic Chemistry Lecture Notes</a></li>
 </tbody>
 </table>
 
+</br>
 
+<h4>Marine Chemistry Lecture Notes</h4>
 
+<p><strong>Lecture 1&nbsp;</strong></p>
+<dl>
+<dd><em>Introduction</em></dd>
+<dd><a href="m/lecture_01.pdf" data-smd-id="s22">lecture_01.pdf</a>&nbsp;(390 KB)</dd>
+</dl>
+<p><strong>Lecture 2&nbsp;</strong></p>
+<dl>
+<dd><em>Properties of Water and Seawater</em></dd>
+<dd><a href="m/lecture_02.pdf" data-smd-id="s23">lecture_02.pdf</a>&nbsp;(360 KB)</dd>
+<dd><a href="m/lecture_02_qa.pdf" data-smd-id="s24">lecture 2: questions &amp; answers</a></dd>
+</dl>
+<p><strong>Lecture 3&nbsp;</strong></p>
+<dl>
+<dd><em>Temperature; Salinity; Density; General Ocean Circulation</em></dd>
+<dd><a href="m/lecture_03.pdf" data-smd-id="s25">lecture_03.pdf</a>&nbsp;(1.1 MB)</dd>
+<dd><a href="m/lecture_03_qa.pdf" data-smd-id="s26">lecture 3: questions &amp; answers</a></dd>
+</dl>
+<p><strong>Lecture 4&nbsp;</strong></p>
+<dl>
+<dd><em>Major Elements in the Ocean</em></dd>
+<dd><a href="m/lecture_04.pdf" data-smd-id="s27">lecture_04.pdf</a>&nbsp;(450 KB)</dd>
+<dd><a href="m/lecture_04_qa.pdf" data-smd-id="s28">lecture 4: questions &amp; answers</a></dd>
+</dl>
+<p><strong>Lecture 5&nbsp;</strong></p>
+<dl>
+<dd><em>Trace Elements in the Ocean</em></dd>
+<dd><a href="m/lecture_05.pdf" data-smd-id="s29">lecture_05.pdf</a>&nbsp;(710 KB)</dd>
+<dd><a href="m/lecture_05_qa.pdf" data-smd-id="s30">lecture 5: questions &amp; answers</a></dd>
+</dl>
+<p><strong>Field Trip&nbsp;</strong></p>
+<dl>
+<dd><em><strong><span style="color: #0000ff;">Cruise Monterey Bay</span></strong></em></dd>
+<dd>No reading</dd>
+</dl>
+<p><strong>Lecture 6&nbsp;</strong></p>
+<dl>
+<dd><em>Marine Chemical Mass Balance (Box and Transport Reaction Models)</em></dd>
+<dd><a href="m/lecture_06.pdf" data-smd-id="s31">lecture_06.pdf</a>&nbsp;(250 KB)</dd>
+<dd><a href="m/lecture_06_qa.pdf" data-smd-id="s32">lecture 6: questions &amp; answers</a></dd>
+</dl>
+<p><strong>Lecture 7&nbsp;</strong></p>
+<dl>
+<dd><em>Life in the Oceans: The Chemical Connection</em></dd>
+<dd><a href="m/lecture_07.pdf" data-smd-id="s33">lecture_07.pdf</a>&nbsp;(680 KB)</dd>
+<dd><a href="m/lecture_07_qa.pdf" data-smd-id="s34">lecture 7: questions &amp; answers</a></dd>
+</dl>
+<p><strong>Lecture 8&nbsp;</strong></p>
+<dl>
+<dd><em>The Biological Pump; Particle Flux</em></dd>
+<dd><a href="m/lecture_08.pdf" data-smd-id="s35">lecture_08.pdf</a>&nbsp;(370 KB)</dd>
+<dd><a href="m/lecture_08_qa.pdf" data-smd-id="s36">lecture 8: questions &amp; answers</a></dd>
+</dl>
+<p><strong>Lecture 9&nbsp;</strong></p>
+<dl>
+<dd><em>Chemical Equilibrium; Ion Complexes; Speciation</em></dd>
+<dd><a href="m/lecture_09.pdf" data-smd-id="s37">lecture_09.pdf</a>&nbsp;(180 KB)</dd>
+<dd><a href="m/lecture_09_qa.pdf" data-smd-id="s38">lecture 9: questions &amp; answers</a></dd>
+</dl>
+<p><strong>Lecture 10</strong></p>
+<dl>
+<dd><em>Remineralization Acid-Base Reactions; Carbonate Chemistry (Alkalinity, DIC)</em></dd>
+<dd><a href="m/lecture_10.pdf" data-smd-id="s39">lecture_10.pdf</a>&nbsp;(830 KB)</dd>
+<dd><a href="m/lecture_10_qa.pdf" data-smd-id="s40">lecture 10: questions &amp; answers</a></dd>
+</dl>
+<p><strong>Lecture 11&nbsp;</strong></p>
+<dl>
+<dd><em>REDOX Chemistry</em></dd>
+<dd><a href="m/lecture_11.pdf" data-smd-id="s41">lecture_11.pdf</a>&nbsp;(340 KB)</dd>
+<dd><a href="m/lecture_11_qa.pdf" data-smd-id="s42">lecture 11: questions &amp; answers</a></dd>
+</dl>
+<p><strong>Lecture 12&nbsp;</strong></p>
+<dl>
+<dd><em>Seawater Composition Changes (global cycles)</em></dd>
+<dd><a href="m/lecture_12.pdf" data-smd-id="s43">lecture_12.pdf</a>&nbsp;(680 KB)</dd>
+<dd><a href="m/lecture_12_qa.pdf" data-smd-id="s44">lecture 12: questions &amp; answers</a></dd>
+</dl>
+<p><strong>Lecture 13&nbsp;</strong></p>
+<dl>
+<dd><em>MHydrothermal Processes</em></dd>
+<dd><a href="m/lecture_13.pdf" data-smd-id="s45">lecture_13.pdf</a>&nbsp;(1.3 MB)</dd>
+<dd><a href="m/lecture_13_qa.pdf" data-smd-id="s46">lecture 13: questions &amp; answers</a></dd>
+</dl>
+<p><strong>Lecture 14&nbsp;</strong></p>
+<dl>
+<dd><em>Marine Sediments</em></dd>
+<dd><a href="m/lecture_14.pdf" data-smd-id="s47">lecture_15.pdf</a>&nbsp;(460 KB)</dd>
+<dd><a href="m/lecture_14_qa.pdf" data-smd-id="s48">lecture 15: questions &amp; answers</a></dd>
+</dl>
+<p><strong>Lecture 15/16&nbsp;</strong></p>
+<dl>
+<dd><em>Radioactive Tracers</em></dd>
+<dd><a href="m/lecture_15.pdf" data-smd-id="s49">lecture_15.pdf</a>&nbsp;(460 KB)</dd>
+<dd><a href="m/lecture_15_qa.pdf" data-smd-id="s50">lecture 15: questions &amp; answers</a></dd>
+<dd><em>Stable Isotopes</em></dd>
+<dd><a href="m/lecture_16.pdf" data-smd-id="s51">lecture_16.pdf</a>&nbsp;(300 KB)</dd>
+<dd><a href="m/lecture_16_qa.pdf" data-smd-id="s52">lecture 16: questions &amp; answers</a></dd>
+</dl>
+<p><strong>Lecture 17&nbsp;</strong></p>
+<dl>
+<dd><em>Paleoceanography</em></dd>
+<dd><a href="m/lecture_17.pdf" data-smd-id="s53">lecture_17.pdf</a>&nbsp;(680 KB)</dd>
+</dl>
+</br>
 
 
