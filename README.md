@@ -491,47 +491,6 @@ Professor David Sherrill's Notes on Quantum Chemistry</a></li>
 </tbody>
 </table>
 </br>
-
-<table border="0" width="100%" cellspacing="0" cellpadding="2">
-<tbody>
-<tr>
-<td height="29">
-<p><strong><a href="notes/CHM333%20Sp2012%20Exam%201%20Key.pdf" data-smd-id="s160">Exam 1 with Answer Key</a></strong></p>
-</td>
-</tr>
-<tr>
-<td height="34">
-<p><strong><a href="notes/CHM333%20S12%20Exam%202%20Key.pdf" data-smd-id="s161">Exam 2 with Answer Key</a></strong></p>
-</td>
-</tr>
-<tr>
-<td height="34">
-<p><strong><a href="notes/Key%20Exam%203.pdf" data-smd-id="s162">Exam 3 with Answer Key</a></strong></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<table border="0" width="100%" cellspacing="0" cellpadding="2">
-<tbody>
-<tr>
-<td height="29">
-<p><strong><a href="notes/Key%20Quiz%201.pdf" data-smd-id="s167">Quiz 1 with Answer Key</a></strong></p>
-</td>
-</tr>
-<tr>
-<td height="34">
-<p><strong><a href="notes/Key%20Quiz%202.pdf" data-smd-id="s168">Quiz 2 with Answer Key</a></strong></p>
-</td>
-</tr>
-<tr>
-<td height="34">
-<p><strong><a href="notes/Quiz%203%20Key.pdf" data-smd-id="s169">Quiz 3 with Answer Key</a></strong></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
 <table border="0" width="100%" cellspacing="0" cellpadding="2">
 <tbody>
 <tr>
