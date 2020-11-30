@@ -352,6 +352,151 @@ Professor David Sherrill's Notes on Quantum Chemistry</a></li>
 <li><a accesskey="8" title="" href="IC%20exp%205.pdf">Experiment 5 Tris-bipy complexes of Iron(II) and Ruthenium (II): Synthesis, Spectroscopy and Electrochemistry</a></li>
 </ul>
 </br>
-
+<table border="0" cellspacing="0" cellpadding="2">
+<tbody>
+<tr>
+<td height="14">
+<p><strong>BIOCHEMISTRY LECTURE NOTES</strong>:</p>
+</td>
+</tr>
+<tr>
+<td height="28">
+<p><strong><a href="notes/Spring%202013%20Lecture%201.pdf">Lecture 1: Introduction</a></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong><a href="notes/Spring%202013%20Lecture%202%20-%204.pdf">Lectures 2 - 4: Acids, Bases and Buffers</a></strong></p>
+<p class="style1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="style2">&nbsp;&nbsp;&nbsp;&nbsp;<a href="notes/fyi_drinking_pop.pdf">●&nbsp;&nbsp;</a></span><a href="notes/fyi_drinking_pop.pdf">Why soda hurts!</a></p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="notes/EC%20Buffers%20Key%202012.pdf">●&nbsp; K<span class="style3">EY FOR PRACTI</span>CE BUFFER PROBLEMS</a></td>
+</tr>
+<tr>
+<td>
+<p><strong><a href="notes/Spring%202013%20Lecture%205.pdf">Lecture 5: Physiological Buffers and Amino Acids I</a></strong></p>
+<p>&nbsp;<span class="style2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="notes/Roundup%20Article.pdf">●&nbsp;&nbsp;</a></span><a href="notes/Roundup%20Article.pdf">Andromeda Strain Summary</a></p>
+</td>
+</tr>
+<tr>
+<td height="28">
+<p><strong><a href="notes/Spring%202013%20Lecture%206.pdf">Lecture 6: Amino Acids II</a></strong></p>
+<p><span class="style2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="notes/Roundup%20Article.pdf">●&nbsp;&nbsp;</a></span><a href="notes/Roundup%20Article.pdf">NY Times Article on Resistance of Weeds to RoundUp</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="notes/Roundup%20resistant%20weeds%20USATODAY%20DEC%202010.pdf"><span class="style2">●&nbsp; USA Today Article on&nbsp;</span>Resistance of Weeds to RoundUp</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="style2">&nbsp;<a href="notes/Glyphosate%20Resistance.pdf">●&nbsp; Purdue Publication on Glyphosate Resistance</a></span></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="notes/Monsanto%20to%20Allow%20Use%20of%20Seed%20After%20Patent%20-%20NYTimes.com.pdf">&nbsp;<span class="style2">●&nbsp; Monsanto Patent Release</span></a></p>
+</td>
+</tr>
+<tr>
+<td height="28">
+<p><strong><a href="notes/Spring%202013%20Lecture%207-%208.pdf">Lecture 7 &amp; 8:&nbsp; Amino Acids III and Peptides</a></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><a href="notes/Spring%202013%20Lecture%209.pdf"><strong>Lecture 9:&nbsp;&nbsp;</strong><strong>Peptides &amp; Proteins</strong></a><strong>&nbsp;</strong>&nbsp;<span class="style2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="style2">&nbsp;<a href="notes/Aspartame%20Controversy.pdf">●&nbsp;&nbsp;</a></span><span lang="en-us"><a href="notes/Aspartame%20Controversy.pdf">The Aspartame (NutraSweet) Controversy</a></span></p>
+</td>
+</tr>
+<tr>
+<td height="14">
+<p><strong><a href="notes/Spring%202012%20Lecture%2010-12.pdf">Lecture 10 - 12: Protein Structure &amp; Function</a></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Lecture : Protein Purification (NOT FOR 2013)</strong></p>
+<p>&nbsp;<span class="style2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="notes/SDS%20gel.ppt">●&nbsp;&nbsp;</a></span><span lang="en-us"><a href="notes/SDS%20gel.ppt">SDS-PAGE Animation (needs PowerPoint)</a></span></p>
+</td>
+</tr>
+<tr>
+<td height="28">
+<p><strong><a href="notes/Spring%202013%20Lecture%2013-14.pdf">Lecture 13 &amp; 14:&nbsp;<span lang="en-us">Introduction to Enzymes</span></a></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong><a href="notes/Spring%202013%20Lecture%2015.pdf">Lecture 15:&nbsp;<span lang="en-us">Enzyme Kinetics</span></a></strong></p>
+</td>
+</tr>
+<tr>
+<td height="28">
+<p><strong><a href="notes/Spring%202013%20Lecture%2016-%2017.pdf">Lecture 16 &amp; 17: Enzyme Inhibition and Coenzymes</a></strong></p>
+<p>&nbsp;<span class="style2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="notes/Inhibition%20LWB%20and%20Enz.pdf">&nbsp;●&nbsp;&nbsp;</a></span><a href="notes/Inhibition%20LWB%20and%20Enz.pdf">Visual Guide to Enzyme Inhibition</a></p>
+<p><span class="style2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="notes/Inhibition%20LWB%20and%20Enz.pdf">●&nbsp;&nbsp;</a></span><a href="notes/Practice%20Kinetics%20Problems.pdf"><span class="style5">P</span><span class="style3">ractice Kinetics Problems</span></a></p>
+</td>
+</tr>
+<tr>
+<td><span class="style2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="notes/Inhibition%20LWB%20and%20Enz.pdf">●&nbsp;&nbsp;</a></span><a href="notes/Kinetics%20Practice%20Problems%20Key%202013.pdf"><span class="style5">P</span><span class="style3">ractice Kinetics Problems Key</span></a></td>
+</tr>
+<tr>
+<td height="28">
+<p><strong><a href="notes/Spring%202013%20Lecture%2018-19.pdf">Lecture 18 &amp; 19: Carbohydrates<span lang="en-us">&nbsp;I</span></a></strong></p>
+<p>&nbsp;<span class="style2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="notes/Carbohydrate%20Handout.pdf">●&nbsp;&nbsp;</a></span><a href="notes/Carbohydrate%20Handout.pdf">Carbohydrate Handout</a></p>
+</td>
+</tr>
+<tr>
+<td height="14">
+<p><strong><a href="notes/Spring%202013%20Lecture%2020.pdf">Lecture 20:&nbsp;<span lang="en-us">Carbohydrates II</span></a></strong></p>
+</td>
+</tr>
+<tr>
+<td height="14">
+<p><strong><a href="notes/Spring%202013%20Lecture%2021.pdf">Lecture 21<span lang="en-us">:</span>&nbsp;Lipids and Membranes I</a></strong></p>
+</td>
+</tr>
+<tr>
+<td height="14">
+<p><span lang="en-us"><strong><a href="notes/Spring%202013%20Lecture%2022.pdf">Lecture 22: Lipids and Membranes II</a></strong></span></p>
+</td>
+</tr>
+<tr>
+<td height="14">
+<p><span lang="en-us"><strong><a href="notes/Spring%202013%20Lecture%2023.pdf">Lecture 23: Lipids and Membranes III</a></strong></span></p>
+</td>
+</tr>
+<tr>
+<td height="11">
+<p><strong><a href="notes/Spring%202013%20Lecture%2024-25.pdf">Lecture 24 &amp; 25: Introduction to Cellular Metabolism &amp; the Chemistry of Metabolism</a></strong></p>
+</td>
+</tr>
+<tr>
+<td height="14">
+<p><span lang="en-us"><strong><a href="notes/Spring%202013%20Lecture%2026.pdf">Lecture 26:&nbsp; Thermodynamics of Metabolism</a></strong></span></p>
+</td>
+</tr>
+<tr>
+<td height="56">
+<p><strong><a href="notes/Spring%202013%20Lecture%2027-28.pdf">Lecture&nbsp;<span lang="en-us">27 &amp; 28</span>:&nbsp; Glycolysis</a></strong></p>
+<p><span lang="en-us">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;<span class="style2">●&nbsp;&nbsp;</span><a href="notes/Glycolysis%20Handout%20Input.pdf">&nbsp;Glycolysis Handout Input</a><br />&nbsp;<span lang="en-us">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;&nbsp;<span class="style2">●&nbsp;&nbsp;</span><a href="notes/Glycolysis%20Handout%20Payoff.pdf">&nbsp;Glycolysis Handout Payoff</a><br />&nbsp;&nbsp;<span lang="en-us">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="notes/TCA%20Handout%201.pdf">&nbsp;</a></span>&nbsp;<span class="style2">●&nbsp;&nbsp;</span><a href="notes/Fermentation%20Pyruvate.pdf">&nbsp;P<span class="style3">yruvate Fermentation</span></a></p>
+</td>
+</tr>
+<tr>
+<td height="14">
+<p><span lang="en-us"><strong><a href="notes/Spring%202013%20Lecture%2029-30.pdf">Lecture 29 &amp; 30:&nbsp; Glycogen &amp; Ethanol Metabolism and Gluconeogenesis</a></strong></span></p>
+</td>
+</tr>
+<tr>
+<td height="15"><strong>Lecture<span lang="en-us">&nbsp;3</span>1: Pentose Phosphate Pathway (NOT FOR 2013)</strong></td>
+</tr>
+<tr>
+<td height="14">
+<p><strong><a href="notes/Spring%202013%20Lecture%2032-33.pdf">Lecture&nbsp;<span lang="en-us">32 &amp; 33</span>: Pyruvated Dehydrogenase &amp; the TCA Cycle</a></strong></p>
+<p><span lang="en-us">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;<span class="style2">●&nbsp;&nbsp;</span><a href="notes/TCA%20Handout%201.pdf">&nbsp;TCA Cycle Handout 1 - Biocarta</a><br />&nbsp;<span lang="en-us">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;&nbsp;<span class="style2">●&nbsp;&nbsp;</span><a href="notes/TCA%20Handout%202.pdf">&nbsp;TCA Cycle Handout 2 - Cycle and Reactions</a><br />&nbsp;<span lang="en-us">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;&nbsp;<span class="style2">●&nbsp;&nbsp;</span><a href="notes/TCA%20Handout%20Thinkwell.pdf">&nbsp;TCA Cycle Handout 3 - Reaction Schemes</a><br />&nbsp;&nbsp;<span lang="en-us">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;<span class="style2">&nbsp;●&nbsp;&nbsp;</span><a href="notes/PDH%20Thinkwell.pdf">&nbsp;TCA Cycle Handout 4 - Pyruvate Dehydrogenase Complex</a><br />&nbsp;&nbsp;<span lang="en-us">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;<span class="style2">&nbsp; ●&nbsp;&nbsp;</span><a href="notes/Glycolysis%20and%20TCA%20Thinkwell.pdf">&nbsp;Glycolysis and TCA Cycle Summary - Thinkwell</a></p>
+</td>
+</tr>
+<tr>
+<td height="14">
+<p><strong><a href="notes/Spring%202013%20Lecture%2034-36.pdf">Lecture&nbsp;<span lang="en-us">34</span>&nbsp;- 36: Lipid and Fat Catabolism</a></strong></p>
+<p><span lang="en-us">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="style2">&nbsp;&nbsp; ●&nbsp;&nbsp;</span><span lang="en-us"><a href="notes/BetaOx%20Handout.pdf">Beta-Oxidation Handout</a></span></p>
+</td>
+</tr>
+<tr>
+<td height="56">
+<p><strong><a href="notes/Spring%202013%20Lecture%2037%20-%2038.pdf">Lecture 37 &amp; 38: Electron Transport Chain and Oxidative Phosphorylation</a></strong></p>
+<p><span lang="en-us">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;<span class="style2">●&nbsp;&nbsp;</span><a href="notes/OX%20Phos%20Handout%20thinkwell.pdf">Oxidative Phosphorylation Handout - Thinkwell</a><br />&nbsp;&nbsp;<span lang="en-us">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="style2">●&nbsp;&nbsp;</span><a href="notes/Electron%20Transport%20Handout%20thinkwell.pdf">Electron Transport Chain Handout - Thinkwell</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
 
 
