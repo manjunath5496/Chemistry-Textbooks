@@ -605,3 +605,780 @@ Bioorganic Chemistry Lecture Notes</a></li>
 <p><strong>Richard Louie's Chemistry Lectures</strong>&nbsp;</p>
 <hr>
 <p>Units of Measurement&nbsp;<a href="z/chemistry_lecture_1.pdf" target="_blank">Chemistry Lecture Notes #1</a><br />What is Density?&nbsp;<a href="z/chemistrylecture2.pdf" target="_blank">Chemistry Lecture Notes #2</a><br />Density Calculations&nbsp;&nbsp;<a href="z/chemistry_lecture_3.pdf" target="_blank">Chemistry Lecture Notes #3</a><br />Scientific Notation <a href="z/chemistry_lecture_4.pdf" target="_blank">Chemistry Lecture Notes #4</a><br />Dimensional Analysis <a href="z/chemistrylecture5.pdf" target="_blank">Chemistry Lecture Notes #5</a><br />Accuracy and Precision; Percent Error&nbsp;<a href="z/chemistrylecture_6.pdf" target="_blank">Chemistry Lecture Notes #6</a><br />Significant Figures&nbsp;<a href="z/chemistrylecture_7.pdf" target="_blank">Chemistry Lecture Notes #7</a><br />Rules for Recognizing Significant Figures <a href="z/chemistrylecture_8.pdf" target="_blank">Chemistry Lecture Notes #8</a><br />Addition, Subtraction, Multiplication &amp; Division of Sig. Figs.&nbsp;&nbsp;<a href="z/chemistry_lecture_9.pdf" target="_blank">Chemistry Lecture Notes #9</a><br />Properties of Matter &nbsp;<a href="z/chemistry_lecture_10.pdf" target="_blank">Chemistry Lecture Notes #10</a><br />Changes in Matter &nbsp;<a href="z/chemistry_lecture_11.pdf" target="_blank">Chemistry Lecture Notes #11</a><br />Law of Conservation of Mass&nbsp;&nbsp;<a href="z/chemistrylecture_12.pdf" target="_blank">Chemistry Lecture Notes #12</a><br />Mixtures of Matter&nbsp;&nbsp;<a href="z/chemistrylecture_13.pdf" target="_blank">Chemistry Lecture Notes #13</a><br />Elements and Compounds &nbsp;<a href="z/chemistry_lecture_14.pdf" target="_blank">Chemistry Lecture Notes #14</a><br />Law of Definite and Multiple Proportions <a href="z/chemistry_lecture_15.pdf" target="_blank">Chemistry Lecture Notes #15<br /></a>Dalton's Atomic Theory <a href="z/chemistry_lecture_16.pdf" target="_blank">Chemistry Lecture Notes #16</a><br />Electrons, Protons, and Neutrons <a href="z/chemistry_lecture_17.pdf" target="_blank">Chemistry Lecture Notes #17<br /></a>Rutherford's Gold Foil Experiment <a href="z/chemistry_lecture_18.pdf" target="_blank">Chemistry Lecture Notes #18</a><br />Atomic Number, Isotopes, and Mass Number <a href="z/chemistry_lecture_19.pdf" target="_blank">Chemistry Lecture Notes #19</a><br />Atomic Mass Unit, Atomic Mass <a href="z/chemistry_lecture_20.pdf" target="_blank">Chemistry Lecture Notes #20</a><br />Energy Levels, Energy Sublevels, Orbitals&nbsp;&nbsp;&nbsp;<a href="z/chemistrylecture_21.pdf" target="_blank">Chemistry Lecture Notes #21</a><br />Electron Configuration&nbsp;<a href="z/chemistrylecture_22.pdf" target="_blank">Chemistry Lecture Notes #22</a><br />Energy, Photons, Frequency, and Wavelength&nbsp;&nbsp;<a href="z/chemistry_lecture_23.pdf">Chemistry Lecture Notes #23</a><br />Demonstration of Emission Spectra &nbsp;<a href="z/chemistry_lecture_24.pdf" target="_blank">Chemistry Lecture Notes #24</a><br />Emission Spectra <a href="z/chemistry_lecture_25.pdf" target="_blank">Chemistry Lecture Notes #25</a><br />Shape of the s, p, d, and f orbitals&nbsp;&nbsp;<a href="z/chemistrylecture_26.pdf" target="_blank">Chemistry Lecture Notes #26</a><br />Electron Dot Structures&nbsp;&nbsp;<a href="z/chemistrylecture_27.pdf" target="_blank">Chemistry Lecture Notes #27<br /></a>History of the Periodic Chart <a href="z/chemistry_lecture_28.pdf" target="_blank">&nbsp;Chemistry Lecture Notes #28<br /></a>Sections of the Periodic Chart &nbsp;&nbsp;<a href="z/chemistry_lecture_29.pdf" target="_blank">Chemistry Lecture Notes #29&nbsp;</a>&nbsp; &nbsp;</br> Electron Configuration &amp; the Periodic Chart <a href="z/chemistry_lecture_30.pdf" target="_blank">Chemistry Lecture Notes #30</a><br />Periodic Chart, Octet Rule, Valence Electrons &amp; Oxidation Number&nbsp;<a href="z/chemistrylecture_31.pdf" target="_blank">Chemistry Lecture Notes #31</a><br />Atomic &amp; Ionic Radius <a href="z/chemistrylecture_32.pdf" target="_blank">Chemistry Lecture Notes #32</a><br />Ionization Energy, Electron Affinity &amp; Electronegativity &nbsp;<a href="z/chemistry_lecture_33.pdf" target="_blank">Chemistry Lecture Notes #33</a>&nbsp;&nbsp;<br />Ionic Compounds <a href="z/chemistrylecture_34.pdf" target="_blank">&nbsp;Chemistry Lecture Notes #34</a>&nbsp; &nbsp;<br />Names and Formulas for Ionic Compounds &nbsp;<a href="z/chemistry_lecture_35.pdf">Chemistry Lecture Notes #35</a>&nbsp;&nbsp;<br />Properties of Ionic Compounds and Metals &nbsp;<a href="z/chemistry_lecture_36.pdf" target="_blank">Chemistry Lecture Notes #36</a><br />Covalent Bonding <a href="z/chemistrylecture_37.pdf">Chemistry Lecture Notes #37&nbsp;&nbsp;</a>&nbsp;&nbsp;<br />Naming Covalent Compounds &nbsp;<a href="z/chemistry_lecture_38.pdf" target="_blank">Chemistry Lecture Notes #38</a>&nbsp;<br />Lewis Dot Structures &nbsp;<a href="z/chemistrylecture_39.pdf" target="_blank">Chemistry Lecture Notes #39</a><br />Lewis Structures of Polyatomic Ions &amp; Octet Rule Exceptions &nbsp;<a href="z/chemistrylecture40.pdf">Chemistry Lecture Notes #40</a><br />Shapes of Molecules <a href="z/chemistrylecture_41.pdf">&nbsp;Chemistry Lecture Notes #41</a><br />Polar and Nonpolar Molecules &nbsp;<a href="z/chemistry_lecture_42.pdf">Chemistry Lecture Notes #42</a><br />Intermolecular Forces&nbsp;&nbsp;<a href="z/chemistrylecture_43.pdf">Chemistry Lecture Notes #43</a><br />Balancing Chemical Equations&nbsp;<a href="z/chemistrylecture_44.pdf">Chemistry Lecture Notes #44</a><br />Creating Balanced Equations from Sentences <a href="z/chemistry_lecture_45.pdf">Chemistry Lecture Notes #45</a><br />Types of Reactions &nbsp;<a href="z/chemistry_lecture_46.pdf">Chemistry Lecture Notes #46</a><br />Predicting the Outcome of Single-replacement Reactions <a href="z/chemistry_lecture_47.pdf">Chemistry Lecture Notes #47</a><br />Soluble &amp; Insoluble Ionic Compounds&nbsp;<a href="z/chemistry_lecture_48.pdf">Chemistry Lecture Notes #48</a><br />Dissociation of Ionic Compounds&nbsp;<a href="z/chemistry_lecture_49.pdf">Chemistry Lecture Notes #49</a><br />Reactions that Form Precipitates&nbsp;&nbsp;<a href="z/chemistry_lecture_50.pdf">Chemistry Lecture Notes #50<br /></a>The Mole &nbsp;<a href="z/chemistry_lecture_51.pdf">Chemistry Lecture Notes #51</a><br />Mass and the Mole &nbsp;&nbsp;<a href="z/chemistry_lecture_52.pdf">Chemistry Lecture Notes #52</a><br />Molar Mass of Compounds&nbsp;<a href="z/chemistry_lecture_53.pdf">Chemistry Lecture Notes #53</a><br />Percent Composition &nbsp;<a href="z/chemistry_lecture_54.pdf">Chemistry Lecture Notes #54</a><br />Empirical Formulas &nbsp;<a href="z/chemistry_lecture_55.pdf">Chemistry Lecture Notes #55</a><br />Molecular Formulas <a href="z/chemistry_lecture_56.pdf">Chemistry Lecture Notes #56</a><br />Formula for a Hydrate <a href="z/chemistry_lecture_57.pdf">Chemistry Lecture Notes #57</a><br />Stoichiometric Mass-to-Mass Conversion&nbsp;&nbsp;<a href="z/chemistry_lecture_58.pdf">Chemistry Lecture Notes #58</a><br />Stoichiometric Shortcut, Mass-to-Mass&nbsp;&nbsp;<a href="z/chemistry_lecture_59.pdf">Chemistry Lecture Notes #59<br /></a>Limiting Reactants (Mass-to-Mass)&nbsp;<a href="z/chemistry_lecture_60.pdf">Chemistry Lecture Notes #60</a><br />Percent Yield <a href="z/chemistry_lecture_61.pdf">Chemistry Lecture Notes #61</a><br />States of Matter &nbsp;<a href="z/chemistry_lecture_62.pdf">Chemistry Lecture Notes #62</a><br />Changes of State &nbsp;<a href="z/chemistry_lecture_63.pdf">Chemistry Lecture Notes #63</a><br />Atmospheric Pressure, Boiling Point, &amp; Phase Diagrams <a href="z/chemistry_lecture_64.pdf">Chemistry Lecture Notes #64</a><br />Specific Heat, Heat of Fusion, and Heat of Vaporization <a href="z/chemistry_lecture_65.pdf">Chemistry Lecture Notes #65</a><br />Kinetic Theory, Introduction to Boyle's and &nbsp;Charles's Law <a href="z/chemistry_lecture_66.pdf">Chemistry Lecture Notes #66</a><br />Demonstration of Boyle's Law and Charles's Law &nbsp;<a href="z/chemistry_lecture_67.pdf">Chemistry Lecture Notes #67</a><br />Boyle's Law and Charles's Law <a href="z/chemistry_lecture_68.pdf">&nbsp;Chemistry Lecture Notes #68</a><br />Gay-Lussac's Law &amp; the Combined Gas Law &nbsp;<a href="z/chemistry_lecture_69.pdf">Chemistry Lecture Notes #69</a><br />Dalton's Law of Partial Pressures &nbsp;<a href="z/chemistry_lecture_70.pdf">Chemistry Lecture notes #70</a><br />Ideal Gas Law&nbsp;&nbsp;<a href="z/chemistry_lecture_71.pdf">Chemistry Lecture Notes #71</a><br />Avogadro's Principle <a href="z/chemistry_lecture_72.pdf">Chemistry Lecture Notes #72</a><br />Gas Stoichiometry &nbsp;<a href="z/chemistry_lecture_73.pdf">Chemistry Lecture Notes #73</a><br />Gas Stoichiometry Short Cuts &nbsp;&nbsp;<a href="z/chemistry_lecture_74.pdf">Chemistry Lecture Notes #74</a><br />Graham's Law &nbsp; &nbsp;<a href="z/chemistry_lecture_75.pdf">Chemistry Lecture Notes #75</a><br />Solutions, Percent by Mass &amp; Volume &nbsp;&nbsp;<a href="z/chemistry_lecture_76.pdf">Chemistry Lecture Notes #76</a><br />Molarity &nbsp;<a href="z/chemistry_lecture_77.pdf">Chemistry Lecture Notes #77</a><br />Molarity - Preparations from Stock Solutions &nbsp;<a href="z/chemistry_lecture_78.pdf">Chemistry Lecture Notes #78</a><br />Molality&nbsp;<a href="z/chemistry_lecture_79.pdf">Chemistry Lecture Notes #79</a><br />Boiling Point Elevation and Freezing Point Depression, Pt. 1 &nbsp;<a href="z/chemistry_lecture_80.pdf">Chemistry Lecture Notes #80</a><br />Boiling Point Elevation and Freezing Point Depression, Pt. 2 <a href="z/chemistry_lecture_81.pdf">&nbsp;Chemistry Lecture Notes #81</a><br />Reaction Rate and Collision Theory &nbsp;<a href="z/chemistry_lecture_82.pdf">Chemistry Lecture Notes #82</a><br />Demonstration of Chemical Reaction Rates &nbsp;<a href="z/chemistry_lecture_83.pdf">Chemistry Lecture Notes #83</a><br />Factors Affecting Reaction Rate &nbsp; &nbsp;&nbsp;<a href="z/chemistry_lecture_84.pdf">Chemistry Lecture Notes #84</a><br />Calculation of Reaction Rate and the Rate Law &nbsp;<a href="z/chemistry_lecture_85.pdf">Chemistry Lecture Notes #85</a><br />Reaction Mechanism and Rate Law &nbsp; &nbsp;<a href="z/chemistry_lecture_86.pdf">Chemistry Lecture Notes #86</a><br />Chemical Equilibrium and the Equilibrium Constant&nbsp;<a href="z/chemistry_lecture_87.pdf">Chemistry Lecture Notes #87&nbsp;</a><br />Le Chatelier's Principle &nbsp; &nbsp;<a href="z/chemistry_lecture_88.pdf">Chemistry Lecture Notes #88</a><br />Acids and Bases &nbsp; &nbsp;&nbsp;<a href="z/chemistry_lecture_89.pdf">Chemistry Lecture Notes #89</a><br />Arrhenius, Bronsted-Lowry, &amp; Lewis Theories of Acids &amp; Bases &nbsp;&nbsp;<a href="z/chemistry_lecture_90.pdf">Chemistry Lecture Notes #90</a>&nbsp;&nbsp;<br />Naming Acids &nbsp;&nbsp; &nbsp;<a href="z/chemistry_lecture_91.pdf">Chemistry Lecture Notes #91</a><br />Strengths of Acids and Bases &nbsp;&nbsp;<a href="z/chemistry_lecture_92.pdf">Chemistry Lecture Notes #92</a><br />Acid and Base Ionization Constants &nbsp;&nbsp;<a href="z/chemistry_lecture_93.pdf">Chemistry Lecture Notes #93<br /></a>Common Ion Effect &nbsp;&nbsp;&nbsp;<a href="z/chemistry_lecture_94.pdf">Chemistry Lecture Notes #94<br /></a>Ion Product Constant for Water and pH &nbsp; &nbsp;<a href="z/chemistry_lecture_95.pdf">Chemistry Lecture Notes #95</a><br />pH and pOH&nbsp;&nbsp;&nbsp;&nbsp;<a href="z/chemistry_lecture_96.pdf">Chemistry Lecture Notes #96</a><br />Neutralization Reactions &amp; Titration &nbsp;&nbsp;&nbsp;<a href="z/chemistry_lecture_97.pdf">Chemistry Lecture Notes #97</a><br />Acid-Base Titration Problems&nbsp;&nbsp;<a href="z/chemistry_lecture_98.pdf">Chemistry Lecture Notes #98</a><br />Change in Enthalpy&nbsp;<a href="z/chemistry_lecture_99.pdf">Chemistry Lecture Notes #99</a><br />Hess's Law &nbsp;<a href="z/chemistry_lecture_100.pdf">Chemistry Lecture Notes #100</a><br />What Is Entropy? &nbsp; &nbsp;&nbsp;<a href="z/chemistry_lecture_101.pdf">Chemistry Lecture Notes #101</a><br />Factors Affecting the Spontaneity of a Reaction <a href="z/chemistry_lecture_102.pdf">Chemistry Lecture Notes #102</a><br />Gibbs Free Energy &nbsp;<a href="z/chemistry_lecture_103.pdf">Chemistry Lecture Notes #103</a><br />Oxidation - Reduction &nbsp;&nbsp;<a href="z/chemistry_lecture_104.pdf">Chemistry Lecture Notes #104</a><br /><br /></p>
+
+</br>
+
+
+
+<table>
+<tbody>
+<tr>
+<th><small><a title="Group (periodic table)" href="https://en.wikipedia.org/wiki/Group_(periodic_table)">Group</a></small></th>
+<th><a title="Alkali metal" href="https://en.wikipedia.org/wiki/Alkali_metal">1</a></th>
+<th><a title="Alkaline earth metal" href="https://en.wikipedia.org/wiki/Alkaline_earth_metal">2</a></th>
+<th><a title="Group 3 element" href="https://en.wikipedia.org/wiki/Group_3_element">3</a></th>
+<th>&nbsp;</th>
+<th><a title="Group 4 element" href="https://en.wikipedia.org/wiki/Group_4_element">4</a></th>
+<th><a title="Group 5 element" href="https://en.wikipedia.org/wiki/Group_5_element">5</a></th>
+<th><a title="Group 6 element" href="https://en.wikipedia.org/wiki/Group_6_element">6</a></th>
+<th><a title="Group 7 element" href="https://en.wikipedia.org/wiki/Group_7_element">7</a></th>
+<th><a title="Group 8 element" href="https://en.wikipedia.org/wiki/Group_8_element">8</a></th>
+<th><a title="Group 9 element" href="https://en.wikipedia.org/wiki/Group_9_element">9</a></th>
+<th><a title="Group 10 element" href="https://en.wikipedia.org/wiki/Group_10_element">10</a></th>
+<th><a title="Group 11 element" href="https://en.wikipedia.org/wiki/Group_11_element">11</a></th>
+<th><a title="Group 12 element" href="https://en.wikipedia.org/wiki/Group_12_element">12</a></th>
+<th><a title="Boron group" href="https://en.wikipedia.org/wiki/Boron_group">13</a></th>
+<th><a title="Carbon group" href="https://en.wikipedia.org/wiki/Carbon_group">14</a></th>
+<th><a title="Pnictogen" href="https://en.wikipedia.org/wiki/Pnictogen">15</a></th>
+<th><a title="Chalcogen" href="https://en.wikipedia.org/wiki/Chalcogen">16</a></th>
+<th><a title="Halogen" href="https://en.wikipedia.org/wiki/Halogen">17</a></th>
+<th><a title="Noble gas" href="https://en.wikipedia.org/wiki/Noble_gas">18</a></th>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Hydrogen<br />and<br />alkali metals</td>
+<td>Alkaline earth metals</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>Pnicto&shy;gens</td>
+<td>Chal&shy;co&shy;gens</td>
+<td>Halo&shy;gens</td>
+<td>Noble gases</td>
+</tr>
+<tr>
+<th><small><a title="Period (periodic table)" href="https://en.wikipedia.org/wiki/Period_(periodic_table)">Period</a></small><br />
+<p><a title="Period 1 element" href="https://en.wikipedia.org/wiki/Period_1_element">1</a></p>
+</th>
+<td>
+<p><span class="nounderlines"><a title="Hydrogen" href="https://en.wikipedia.org/wiki/Hydrogen"><span title="H , hydrogen">Hydro&shy;gen</span></a></span></p>
+<p><span class="nounderlines"><a title="Hydrogen" href="https://en.wikipedia.org/wiki/Hydrogen"><span title="H , hydrogen">1</span></a></span></p>
+<p><span class="nounderlines"><a title="Hydrogen" href="https://en.wikipedia.org/wiki/Hydrogen"><span title="H , hydrogen">H</span></a></span></p>
+<p><span class="nounderlines"><a title="Hydrogen" href="https://en.wikipedia.org/wiki/Hydrogen"><span title="H , hydrogen"><span class="nowrap">1.008</span></span></a></span></p>
+</td>
+<td colspan="17">&nbsp;</td>
+<td>
+<p><span class="nounderlines"><a title="Helium" href="https://en.wikipedia.org/wiki/Helium"><span title="He, helium">He&shy;lium</span></a></span></p>
+<p><span class="nounderlines"><a title="Helium" href="https://en.wikipedia.org/wiki/Helium"><span title="He, helium">2</span></a></span></p>
+<p><span class="nounderlines"><a title="Helium" href="https://en.wikipedia.org/wiki/Helium"><span title="He, helium">He</span></a></span></p>
+<p><span class="nounderlines"><a title="Helium" href="https://en.wikipedia.org/wiki/Helium"><span title="He, helium"><span class="nowrap">4.0026</span></span></a></span></p>
+</td>
+</tr>
+<tr>
+<th><a title="Period 2 element" href="https://en.wikipedia.org/wiki/Period_2_element">2</a></th>
+<td>
+<p><span class="nounderlines"><a title="Lithium" href="https://en.wikipedia.org/wiki/Lithium"><span title="Li, lithium">Lith&shy;ium</span></a></span></p>
+<p><span class="nounderlines"><a title="Lithium" href="https://en.wikipedia.org/wiki/Lithium"><span title="Li, lithium">3</span></a></span></p>
+<p><span class="nounderlines"><a title="Lithium" href="https://en.wikipedia.org/wiki/Lithium"><span title="Li, lithium">Li</span></a></span></p>
+<p><span class="nounderlines"><a title="Lithium" href="https://en.wikipedia.org/wiki/Lithium"><span title="Li, lithium"><span class="nowrap">6.94</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Beryllium" href="https://en.wikipedia.org/wiki/Beryllium"><span title="Be, beryllium">Beryl&shy;lium</span></a></span></p>
+<p><span class="nounderlines"><a title="Beryllium" href="https://en.wikipedia.org/wiki/Beryllium"><span title="Be, beryllium">4</span></a></span></p>
+<p><span class="nounderlines"><a title="Beryllium" href="https://en.wikipedia.org/wiki/Beryllium"><span title="Be, beryllium">Be</span></a></span></p>
+<p><span class="nounderlines"><a title="Beryllium" href="https://en.wikipedia.org/wiki/Beryllium"><span title="Be, beryllium"><span class="nowrap">9.0122</span></span></a></span></p>
+</td>
+<td colspan="11">&nbsp;</td>
+<td>
+<p><span class="nounderlines"><a title="Boron" href="https://en.wikipedia.org/wiki/Boron"><span title="B , boron">Boron</span></a></span></p>
+<p><span class="nounderlines"><a title="Boron" href="https://en.wikipedia.org/wiki/Boron"><span title="B , boron">5</span></a></span></p>
+<p><span class="nounderlines"><a title="Boron" href="https://en.wikipedia.org/wiki/Boron"><span title="B , boron">B</span></a></span></p>
+<p><span class="nounderlines"><a title="Boron" href="https://en.wikipedia.org/wiki/Boron"><span title="B , boron"><span class="nowrap">10.81</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Carbon" href="https://en.wikipedia.org/wiki/Carbon"><span title="C , carbon">Carbon</span></a></span></p>
+<p><span class="nounderlines"><a title="Carbon" href="https://en.wikipedia.org/wiki/Carbon"><span title="C , carbon">6</span></a></span></p>
+<p><span class="nounderlines"><a title="Carbon" href="https://en.wikipedia.org/wiki/Carbon"><span title="C , carbon">C</span></a></span></p>
+<p><span class="nounderlines"><a title="Carbon" href="https://en.wikipedia.org/wiki/Carbon"><span title="C , carbon"><span class="nowrap">12.011</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Nitrogen" href="https://en.wikipedia.org/wiki/Nitrogen"><span title="N , nitrogen">Nitro&shy;gen</span></a></span></p>
+<p><span class="nounderlines"><a title="Nitrogen" href="https://en.wikipedia.org/wiki/Nitrogen"><span title="N , nitrogen">7</span></a></span></p>
+<p><span class="nounderlines"><a title="Nitrogen" href="https://en.wikipedia.org/wiki/Nitrogen"><span title="N , nitrogen">N</span></a></span></p>
+<p><span class="nounderlines"><a title="Nitrogen" href="https://en.wikipedia.org/wiki/Nitrogen"><span title="N , nitrogen"><span class="nowrap">14.007</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Oxygen" href="https://en.wikipedia.org/wiki/Oxygen"><span title="O , oxygen">Oxy&shy;gen</span></a></span></p>
+<p><span class="nounderlines"><a title="Oxygen" href="https://en.wikipedia.org/wiki/Oxygen"><span title="O , oxygen">8</span></a></span></p>
+<p><span class="nounderlines"><a title="Oxygen" href="https://en.wikipedia.org/wiki/Oxygen"><span title="O , oxygen">O</span></a></span></p>
+<p><span class="nounderlines"><a title="Oxygen" href="https://en.wikipedia.org/wiki/Oxygen"><span title="O , oxygen"><span class="nowrap">15.999</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Fluorine" href="https://en.wikipedia.org/wiki/Fluorine"><span title="F , fluorine">Fluor&shy;ine</span></a></span></p>
+<p><span class="nounderlines"><a title="Fluorine" href="https://en.wikipedia.org/wiki/Fluorine"><span title="F , fluorine">9</span></a></span></p>
+<p><span class="nounderlines"><a title="Fluorine" href="https://en.wikipedia.org/wiki/Fluorine"><span title="F , fluorine">F</span></a></span></p>
+<p><span class="nounderlines"><a title="Fluorine" href="https://en.wikipedia.org/wiki/Fluorine"><span title="F , fluorine"><span class="nowrap">18.998</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Neon" href="https://en.wikipedia.org/wiki/Neon"><span title="Ne, neon">Neon</span></a></span></p>
+<p><span class="nounderlines"><a title="Neon" href="https://en.wikipedia.org/wiki/Neon"><span title="Ne, neon">10</span></a></span></p>
+<p><span class="nounderlines"><a title="Neon" href="https://en.wikipedia.org/wiki/Neon"><span title="Ne, neon">Ne</span></a></span></p>
+<p><span class="nounderlines"><a title="Neon" href="https://en.wikipedia.org/wiki/Neon"><span title="Ne, neon"><span class="nowrap">20.180</span></span></a></span></p>
+</td>
+</tr>
+<tr>
+<th><a title="Period 3 element" href="https://en.wikipedia.org/wiki/Period_3_element">3</a></th>
+<td>
+<p><span class="nounderlines"><a title="Sodium" href="https://en.wikipedia.org/wiki/Sodium"><span title="Na, sodium">So&shy;dium</span></a></span></p>
+<p><span class="nounderlines"><a title="Sodium" href="https://en.wikipedia.org/wiki/Sodium"><span title="Na, sodium">11</span></a></span></p>
+<p><span class="nounderlines"><a title="Sodium" href="https://en.wikipedia.org/wiki/Sodium"><span title="Na, sodium">Na</span></a></span></p>
+<p><span class="nounderlines"><a title="Sodium" href="https://en.wikipedia.org/wiki/Sodium"><span title="Na, sodium"><span class="nowrap">22.990</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Magnesium" href="https://en.wikipedia.org/wiki/Magnesium"><span title="Mg, magnesium">Magne&shy;sium</span></a></span></p>
+<p><span class="nounderlines"><a title="Magnesium" href="https://en.wikipedia.org/wiki/Magnesium"><span title="Mg, magnesium">12</span></a></span></p>
+<p><span class="nounderlines"><a title="Magnesium" href="https://en.wikipedia.org/wiki/Magnesium"><span title="Mg, magnesium">Mg</span></a></span></p>
+<p><span class="nounderlines"><a title="Magnesium" href="https://en.wikipedia.org/wiki/Magnesium"><span title="Mg, magnesium"><span class="nowrap">24.305</span></span></a></span></p>
+</td>
+<td colspan="11">&nbsp;</td>
+<td>
+<p><span class="nounderlines"><a title="Aluminium" href="https://en.wikipedia.org/wiki/Aluminium"><span title="Al, aluminium">Alumin&shy;ium</span></a></span></p>
+<p><span class="nounderlines"><a title="Aluminium" href="https://en.wikipedia.org/wiki/Aluminium"><span title="Al, aluminium">13</span></a></span></p>
+<p><span class="nounderlines"><a title="Aluminium" href="https://en.wikipedia.org/wiki/Aluminium"><span title="Al, aluminium">Al</span></a></span></p>
+<p><span class="nounderlines"><a title="Aluminium" href="https://en.wikipedia.org/wiki/Aluminium"><span title="Al, aluminium"><span class="nowrap">26.982</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Silicon" href="https://en.wikipedia.org/wiki/Silicon"><span title="Si, silicon">Sili&shy;con</span></a></span></p>
+<p><span class="nounderlines"><a title="Silicon" href="https://en.wikipedia.org/wiki/Silicon"><span title="Si, silicon">14</span></a></span></p>
+<p><span class="nounderlines"><a title="Silicon" href="https://en.wikipedia.org/wiki/Silicon"><span title="Si, silicon">Si</span></a></span></p>
+<p><span class="nounderlines"><a title="Silicon" href="https://en.wikipedia.org/wiki/Silicon"><span title="Si, silicon"><span class="nowrap">28.085</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Phosphorus" href="https://en.wikipedia.org/wiki/Phosphorus"><span title="P , phosphorus">Phos&shy;phorus</span></a></span></p>
+<p><span class="nounderlines"><a title="Phosphorus" href="https://en.wikipedia.org/wiki/Phosphorus"><span title="P , phosphorus">15</span></a></span></p>
+<p><span class="nounderlines"><a title="Phosphorus" href="https://en.wikipedia.org/wiki/Phosphorus"><span title="P , phosphorus">P</span></a></span></p>
+<p><span class="nounderlines"><a title="Phosphorus" href="https://en.wikipedia.org/wiki/Phosphorus"><span title="P , phosphorus"><span class="nowrap">30.974</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Sulfur" href="https://en.wikipedia.org/wiki/Sulfur"><span title="S , sulfur">Sulfur</span></a></span></p>
+<p><span class="nounderlines"><a title="Sulfur" href="https://en.wikipedia.org/wiki/Sulfur"><span title="S , sulfur">16</span></a></span></p>
+<p><span class="nounderlines"><a title="Sulfur" href="https://en.wikipedia.org/wiki/Sulfur"><span title="S , sulfur">S</span></a></span></p>
+<p><span class="nounderlines"><a title="Sulfur" href="https://en.wikipedia.org/wiki/Sulfur"><span title="S , sulfur"><span class="nowrap">32.06</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Chlorine" href="https://en.wikipedia.org/wiki/Chlorine"><span title="Cl, chlorine">Chlor&shy;ine</span></a></span></p>
+<p><span class="nounderlines"><a title="Chlorine" href="https://en.wikipedia.org/wiki/Chlorine"><span title="Cl, chlorine">17</span></a></span></p>
+<p><span class="nounderlines"><a title="Chlorine" href="https://en.wikipedia.org/wiki/Chlorine"><span title="Cl, chlorine">Cl</span></a></span></p>
+<p><span class="nounderlines"><a title="Chlorine" href="https://en.wikipedia.org/wiki/Chlorine"><span title="Cl, chlorine"><span class="nowrap">35.45</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Argon" href="https://en.wikipedia.org/wiki/Argon"><span title="Ar, argon">Argon</span></a></span></p>
+<p><span class="nounderlines"><a title="Argon" href="https://en.wikipedia.org/wiki/Argon"><span title="Ar, argon">18</span></a></span></p>
+<p><span class="nounderlines"><a title="Argon" href="https://en.wikipedia.org/wiki/Argon"><span title="Ar, argon">Ar</span></a></span></p>
+<p><span class="nounderlines"><a title="Argon" href="https://en.wikipedia.org/wiki/Argon"><span title="Ar, argon"><span class="nowrap">39.95</span></span></a></span></p>
+</td>
+</tr>
+<tr>
+<th><a title="Period 4 element" href="https://en.wikipedia.org/wiki/Period_4_element">4</a></th>
+<td>
+<p><span class="nounderlines"><a title="Potassium" href="https://en.wikipedia.org/wiki/Potassium"><span title="K , potassium">Potas&shy;sium</span></a></span></p>
+<p><span class="nounderlines"><a title="Potassium" href="https://en.wikipedia.org/wiki/Potassium"><span title="K , potassium">19</span></a></span></p>
+<p><span class="nounderlines"><a title="Potassium" href="https://en.wikipedia.org/wiki/Potassium"><span title="K , potassium">K</span></a></span></p>
+<p><span class="nounderlines"><a title="Potassium" href="https://en.wikipedia.org/wiki/Potassium"><span title="K , potassium"><span class="nowrap">39.098</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Calcium" href="https://en.wikipedia.org/wiki/Calcium"><span title="Ca, calcium">Cal&shy;cium</span></a></span></p>
+<p><span class="nounderlines"><a title="Calcium" href="https://en.wikipedia.org/wiki/Calcium"><span title="Ca, calcium">20</span></a></span></p>
+<p><span class="nounderlines"><a title="Calcium" href="https://en.wikipedia.org/wiki/Calcium"><span title="Ca, calcium">Ca</span></a></span></p>
+<p><span class="nounderlines"><a title="Calcium" href="https://en.wikipedia.org/wiki/Calcium"><span title="Ca, calcium"><span class="nowrap">40.078</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Scandium" href="https://en.wikipedia.org/wiki/Scandium"><span title="Sc, scandium">Scan&shy;dium</span></a></span></p>
+<p><span class="nounderlines"><a title="Scandium" href="https://en.wikipedia.org/wiki/Scandium"><span title="Sc, scandium">21</span></a></span></p>
+<p><span class="nounderlines"><a title="Scandium" href="https://en.wikipedia.org/wiki/Scandium"><span title="Sc, scandium">Sc</span></a></span></p>
+<p><span class="nounderlines"><a title="Scandium" href="https://en.wikipedia.org/wiki/Scandium"><span title="Sc, scandium"><span class="nowrap">44.956</span></span></a></span></p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p><span class="nounderlines"><a title="Titanium" href="https://en.wikipedia.org/wiki/Titanium"><span title="Ti, titanium">Tita&shy;nium</span></a></span></p>
+<p><span class="nounderlines"><a title="Titanium" href="https://en.wikipedia.org/wiki/Titanium"><span title="Ti, titanium">22</span></a></span></p>
+<p><span class="nounderlines"><a title="Titanium" href="https://en.wikipedia.org/wiki/Titanium"><span title="Ti, titanium">Ti</span></a></span></p>
+<p><span class="nounderlines"><a title="Titanium" href="https://en.wikipedia.org/wiki/Titanium"><span title="Ti, titanium"><span class="nowrap">47.867</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Vanadium" href="https://en.wikipedia.org/wiki/Vanadium"><span title="V , vanadium">Vana&shy;dium</span></a></span></p>
+<p><span class="nounderlines"><a title="Vanadium" href="https://en.wikipedia.org/wiki/Vanadium"><span title="V , vanadium">23</span></a></span></p>
+<p><span class="nounderlines"><a title="Vanadium" href="https://en.wikipedia.org/wiki/Vanadium"><span title="V , vanadium">V</span></a></span></p>
+<p><span class="nounderlines"><a title="Vanadium" href="https://en.wikipedia.org/wiki/Vanadium"><span title="V , vanadium"><span class="nowrap">50.942</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Chromium" href="https://en.wikipedia.org/wiki/Chromium"><span title="Cr, chromium">Chrom&shy;ium</span></a></span></p>
+<p><span class="nounderlines"><a title="Chromium" href="https://en.wikipedia.org/wiki/Chromium"><span title="Cr, chromium">24</span></a></span></p>
+<p><span class="nounderlines"><a title="Chromium" href="https://en.wikipedia.org/wiki/Chromium"><span title="Cr, chromium">Cr</span></a></span></p>
+<p><span class="nounderlines"><a title="Chromium" href="https://en.wikipedia.org/wiki/Chromium"><span title="Cr, chromium"><span class="nowrap">51.996</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Manganese" href="https://en.wikipedia.org/wiki/Manganese"><span title="Mn, manganese">Manga&shy;nese</span></a></span></p>
+<p><span class="nounderlines"><a title="Manganese" href="https://en.wikipedia.org/wiki/Manganese"><span title="Mn, manganese">25</span></a></span></p>
+<p><span class="nounderlines"><a title="Manganese" href="https://en.wikipedia.org/wiki/Manganese"><span title="Mn, manganese">Mn</span></a></span></p>
+<p><span class="nounderlines"><a title="Manganese" href="https://en.wikipedia.org/wiki/Manganese"><span title="Mn, manganese"><span class="nowrap">54.938</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Iron" href="https://en.wikipedia.org/wiki/Iron"><span title="Fe, iron">Iron</span></a></span></p>
+<p><span class="nounderlines"><a title="Iron" href="https://en.wikipedia.org/wiki/Iron"><span title="Fe, iron">26</span></a></span></p>
+<p><span class="nounderlines"><a title="Iron" href="https://en.wikipedia.org/wiki/Iron"><span title="Fe, iron">Fe</span></a></span></p>
+<p><span class="nounderlines"><a title="Iron" href="https://en.wikipedia.org/wiki/Iron"><span title="Fe, iron"><span class="nowrap">55.845</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Cobalt" href="https://en.wikipedia.org/wiki/Cobalt"><span title="Co, cobalt">Cobalt</span></a></span></p>
+<p><span class="nounderlines"><a title="Cobalt" href="https://en.wikipedia.org/wiki/Cobalt"><span title="Co, cobalt">27</span></a></span></p>
+<p><span class="nounderlines"><a title="Cobalt" href="https://en.wikipedia.org/wiki/Cobalt"><span title="Co, cobalt">Co</span></a></span></p>
+<p><span class="nounderlines"><a title="Cobalt" href="https://en.wikipedia.org/wiki/Cobalt"><span title="Co, cobalt"><span class="nowrap">58.933</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Nickel" href="https://en.wikipedia.org/wiki/Nickel"><span title="Ni, nickel">Nickel</span></a></span></p>
+<p><span class="nounderlines"><a title="Nickel" href="https://en.wikipedia.org/wiki/Nickel"><span title="Ni, nickel">28</span></a></span></p>
+<p><span class="nounderlines"><a title="Nickel" href="https://en.wikipedia.org/wiki/Nickel"><span title="Ni, nickel">Ni</span></a></span></p>
+<p><span class="nounderlines"><a title="Nickel" href="https://en.wikipedia.org/wiki/Nickel"><span title="Ni, nickel"><span class="nowrap">58.693</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Copper" href="https://en.wikipedia.org/wiki/Copper"><span title="Cu, copper">Copper</span></a></span></p>
+<p><span class="nounderlines"><a title="Copper" href="https://en.wikipedia.org/wiki/Copper"><span title="Cu, copper">29</span></a></span></p>
+<p><span class="nounderlines"><a title="Copper" href="https://en.wikipedia.org/wiki/Copper"><span title="Cu, copper">Cu</span></a></span></p>
+<p><span class="nounderlines"><a title="Copper" href="https://en.wikipedia.org/wiki/Copper"><span title="Cu, copper"><span class="nowrap">63.546</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Zinc" href="https://en.wikipedia.org/wiki/Zinc"><span title="Zn, zinc">Zinc</span></a></span></p>
+<p><span class="nounderlines"><a title="Zinc" href="https://en.wikipedia.org/wiki/Zinc"><span title="Zn, zinc">30</span></a></span></p>
+<p><span class="nounderlines"><a title="Zinc" href="https://en.wikipedia.org/wiki/Zinc"><span title="Zn, zinc">Zn</span></a></span></p>
+<p><span class="nounderlines"><a title="Zinc" href="https://en.wikipedia.org/wiki/Zinc"><span title="Zn, zinc"><span class="nowrap">65.38</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Gallium" href="https://en.wikipedia.org/wiki/Gallium"><span title="Ga, gallium">Gallium</span></a></span></p>
+<p><span class="nounderlines"><a title="Gallium" href="https://en.wikipedia.org/wiki/Gallium"><span title="Ga, gallium">31</span></a></span></p>
+<p><span class="nounderlines"><a title="Gallium" href="https://en.wikipedia.org/wiki/Gallium"><span title="Ga, gallium">Ga</span></a></span></p>
+<p><span class="nounderlines"><a title="Gallium" href="https://en.wikipedia.org/wiki/Gallium"><span title="Ga, gallium"><span class="nowrap">69.723</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Germanium" href="https://en.wikipedia.org/wiki/Germanium"><span title="Ge, germanium">Germa&shy;nium</span></a></span></p>
+<p><span class="nounderlines"><a title="Germanium" href="https://en.wikipedia.org/wiki/Germanium"><span title="Ge, germanium">32</span></a></span></p>
+<p><span class="nounderlines"><a title="Germanium" href="https://en.wikipedia.org/wiki/Germanium"><span title="Ge, germanium">Ge</span></a></span></p>
+<p><span class="nounderlines"><a title="Germanium" href="https://en.wikipedia.org/wiki/Germanium"><span title="Ge, germanium"><span class="nowrap">72.630</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Arsenic" href="https://en.wikipedia.org/wiki/Arsenic"><span title="As, arsenic">Arsenic</span></a></span></p>
+<p><span class="nounderlines"><a title="Arsenic" href="https://en.wikipedia.org/wiki/Arsenic"><span title="As, arsenic">33</span></a></span></p>
+<p><span class="nounderlines"><a title="Arsenic" href="https://en.wikipedia.org/wiki/Arsenic"><span title="As, arsenic">As</span></a></span></p>
+<p><span class="nounderlines"><a title="Arsenic" href="https://en.wikipedia.org/wiki/Arsenic"><span title="As, arsenic"><span class="nowrap">74.922</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Selenium" href="https://en.wikipedia.org/wiki/Selenium"><span title="Se, selenium">Sele&shy;nium</span></a></span></p>
+<p><span class="nounderlines"><a title="Selenium" href="https://en.wikipedia.org/wiki/Selenium"><span title="Se, selenium">34</span></a></span></p>
+<p><span class="nounderlines"><a title="Selenium" href="https://en.wikipedia.org/wiki/Selenium"><span title="Se, selenium">Se</span></a></span></p>
+<p><span class="nounderlines"><a title="Selenium" href="https://en.wikipedia.org/wiki/Selenium"><span title="Se, selenium"><span class="nowrap">78.971</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Bromine" href="https://en.wikipedia.org/wiki/Bromine"><span title="Br, bromine">Bromine</span></a></span></p>
+<p><span class="nounderlines"><a title="Bromine" href="https://en.wikipedia.org/wiki/Bromine"><span title="Br, bromine">35</span></a></span></p>
+<p><span class="nounderlines"><a title="Bromine" href="https://en.wikipedia.org/wiki/Bromine"><span title="Br, bromine">Br</span></a></span></p>
+<p><span class="nounderlines"><a title="Bromine" href="https://en.wikipedia.org/wiki/Bromine"><span title="Br, bromine"><span class="nowrap">79.904</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Krypton" href="https://en.wikipedia.org/wiki/Krypton"><span title="Kr, krypton">Kryp&shy;ton</span></a></span></p>
+<p><span class="nounderlines"><a title="Krypton" href="https://en.wikipedia.org/wiki/Krypton"><span title="Kr, krypton">36</span></a></span></p>
+<p><span class="nounderlines"><a title="Krypton" href="https://en.wikipedia.org/wiki/Krypton"><span title="Kr, krypton">Kr</span></a></span></p>
+<p><span class="nounderlines"><a title="Krypton" href="https://en.wikipedia.org/wiki/Krypton"><span title="Kr, krypton"><span class="nowrap">83.798</span></span></a></span></p>
+</td>
+</tr>
+<tr>
+<th><a title="Period 5 element" href="https://en.wikipedia.org/wiki/Period_5_element">5</a></th>
+<td>
+<p><span class="nounderlines"><a title="Rubidium" href="https://en.wikipedia.org/wiki/Rubidium"><span title="Rb, rubidium">Rubid&shy;ium</span></a></span></p>
+<p><span class="nounderlines"><a title="Rubidium" href="https://en.wikipedia.org/wiki/Rubidium"><span title="Rb, rubidium">37</span></a></span></p>
+<p><span class="nounderlines"><a title="Rubidium" href="https://en.wikipedia.org/wiki/Rubidium"><span title="Rb, rubidium">Rb</span></a></span></p>
+<p><span class="nounderlines"><a title="Rubidium" href="https://en.wikipedia.org/wiki/Rubidium"><span title="Rb, rubidium"><span class="nowrap">85.468</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Strontium" href="https://en.wikipedia.org/wiki/Strontium"><span title="Sr, strontium">Stront&shy;ium</span></a></span></p>
+<p><span class="nounderlines"><a title="Strontium" href="https://en.wikipedia.org/wiki/Strontium"><span title="Sr, strontium">38</span></a></span></p>
+<p><span class="nounderlines"><a title="Strontium" href="https://en.wikipedia.org/wiki/Strontium"><span title="Sr, strontium">Sr</span></a></span></p>
+<p><span class="nounderlines"><a title="Strontium" href="https://en.wikipedia.org/wiki/Strontium"><span title="Sr, strontium"><span class="nowrap">87.62</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Yttrium" href="https://en.wikipedia.org/wiki/Yttrium"><span title="Y , yttrium">Yttrium</span></a></span></p>
+<p><span class="nounderlines"><a title="Yttrium" href="https://en.wikipedia.org/wiki/Yttrium"><span title="Y , yttrium">39</span></a></span></p>
+<p><span class="nounderlines"><a title="Yttrium" href="https://en.wikipedia.org/wiki/Yttrium"><span title="Y , yttrium">Y</span></a></span></p>
+<p><span class="nounderlines"><a title="Yttrium" href="https://en.wikipedia.org/wiki/Yttrium"><span title="Y , yttrium"><span class="nowrap">88.906</span></span></a></span></p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p><span class="nounderlines"><a title="Zirconium" href="https://en.wikipedia.org/wiki/Zirconium"><span title="Zr, zirconium">Zirco&shy;nium</span></a></span></p>
+<p><span class="nounderlines"><a title="Zirconium" href="https://en.wikipedia.org/wiki/Zirconium"><span title="Zr, zirconium">40</span></a></span></p>
+<p><span class="nounderlines"><a title="Zirconium" href="https://en.wikipedia.org/wiki/Zirconium"><span title="Zr, zirconium">Zr</span></a></span></p>
+<p><span class="nounderlines"><a title="Zirconium" href="https://en.wikipedia.org/wiki/Zirconium"><span title="Zr, zirconium"><span class="nowrap">91.224</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Niobium" href="https://en.wikipedia.org/wiki/Niobium"><span title="Nb, niobium">Nio&shy;bium</span></a></span></p>
+<p><span class="nounderlines"><a title="Niobium" href="https://en.wikipedia.org/wiki/Niobium"><span title="Nb, niobium">41</span></a></span></p>
+<p><span class="nounderlines"><a title="Niobium" href="https://en.wikipedia.org/wiki/Niobium"><span title="Nb, niobium">Nb</span></a></span></p>
+<p><span class="nounderlines"><a title="Niobium" href="https://en.wikipedia.org/wiki/Niobium"><span title="Nb, niobium"><span class="nowrap">92.906</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Molybdenum" href="https://en.wikipedia.org/wiki/Molybdenum"><span title="Mo, molybdenum">Molyb&shy;denum</span></a></span></p>
+<p><span class="nounderlines"><a title="Molybdenum" href="https://en.wikipedia.org/wiki/Molybdenum"><span title="Mo, molybdenum">42</span></a></span></p>
+<p><span class="nounderlines"><a title="Molybdenum" href="https://en.wikipedia.org/wiki/Molybdenum"><span title="Mo, molybdenum">Mo</span></a></span></p>
+<p><span class="nounderlines"><a title="Molybdenum" href="https://en.wikipedia.org/wiki/Molybdenum"><span title="Mo, molybdenum"><span class="nowrap">95.95</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Technetium" href="https://en.wikipedia.org/wiki/Technetium"><span title="Tc, technetium">Tech&shy;netium</span></a></span></p>
+<p><span class="nounderlines"><a title="Technetium" href="https://en.wikipedia.org/wiki/Technetium"><span title="Tc, technetium">43</span></a></span></p>
+<p><span class="nounderlines"><a title="Technetium" href="https://en.wikipedia.org/wiki/Technetium"><span title="Tc, technetium">Tc</span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Ruthenium" href="https://en.wikipedia.org/wiki/Ruthenium"><span title="Ru, ruthenium">Ruthe&shy;nium</span></a></span></p>
+<p><span class="nounderlines"><a title="Ruthenium" href="https://en.wikipedia.org/wiki/Ruthenium"><span title="Ru, ruthenium">44</span></a></span></p>
+<p><span class="nounderlines"><a title="Ruthenium" href="https://en.wikipedia.org/wiki/Ruthenium"><span title="Ru, ruthenium">Ru</span></a></span></p>
+<p><span class="nounderlines"><a title="Ruthenium" href="https://en.wikipedia.org/wiki/Ruthenium"><span title="Ru, ruthenium"><span class="nowrap">101.07</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Rhodium" href="https://en.wikipedia.org/wiki/Rhodium"><span title="Rh, rhodium">Rho&shy;dium</span></a></span></p>
+<p><span class="nounderlines"><a title="Rhodium" href="https://en.wikipedia.org/wiki/Rhodium"><span title="Rh, rhodium">45</span></a></span></p>
+<p><span class="nounderlines"><a title="Rhodium" href="https://en.wikipedia.org/wiki/Rhodium"><span title="Rh, rhodium">Rh</span></a></span></p>
+<p><span class="nounderlines"><a title="Rhodium" href="https://en.wikipedia.org/wiki/Rhodium"><span title="Rh, rhodium"><span class="nowrap">102.91</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Palladium" href="https://en.wikipedia.org/wiki/Palladium"><span title="Pd, palladium">Pallad&shy;ium</span></a></span></p>
+<p><span class="nounderlines"><a title="Palladium" href="https://en.wikipedia.org/wiki/Palladium"><span title="Pd, palladium">46</span></a></span></p>
+<p><span class="nounderlines"><a title="Palladium" href="https://en.wikipedia.org/wiki/Palladium"><span title="Pd, palladium">Pd</span></a></span></p>
+<p><span class="nounderlines"><a title="Palladium" href="https://en.wikipedia.org/wiki/Palladium"><span title="Pd, palladium"><span class="nowrap">106.42</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Silver" href="https://en.wikipedia.org/wiki/Silver"><span title="Ag, silver">Silver</span></a></span></p>
+<p><span class="nounderlines"><a title="Silver" href="https://en.wikipedia.org/wiki/Silver"><span title="Ag, silver">47</span></a></span></p>
+<p><span class="nounderlines"><a title="Silver" href="https://en.wikipedia.org/wiki/Silver"><span title="Ag, silver">Ag</span></a></span></p>
+<p><span class="nounderlines"><a title="Silver" href="https://en.wikipedia.org/wiki/Silver"><span title="Ag, silver"><span class="nowrap">107.87</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Cadmium" href="https://en.wikipedia.org/wiki/Cadmium"><span title="Cd, cadmium">Cad&shy;mium</span></a></span></p>
+<p><span class="nounderlines"><a title="Cadmium" href="https://en.wikipedia.org/wiki/Cadmium"><span title="Cd, cadmium">48</span></a></span></p>
+<p><span class="nounderlines"><a title="Cadmium" href="https://en.wikipedia.org/wiki/Cadmium"><span title="Cd, cadmium">Cd</span></a></span></p>
+<p><span class="nounderlines"><a title="Cadmium" href="https://en.wikipedia.org/wiki/Cadmium"><span title="Cd, cadmium"><span class="nowrap">112.41</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Indium" href="https://en.wikipedia.org/wiki/Indium"><span title="In, indium">Indium</span></a></span></p>
+<p><span class="nounderlines"><a title="Indium" href="https://en.wikipedia.org/wiki/Indium"><span title="In, indium">49</span></a></span></p>
+<p><span class="nounderlines"><a title="Indium" href="https://en.wikipedia.org/wiki/Indium"><span title="In, indium">In</span></a></span></p>
+<p><span class="nounderlines"><a title="Indium" href="https://en.wikipedia.org/wiki/Indium"><span title="In, indium"><span class="nowrap">114.82</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Tin" href="https://en.wikipedia.org/wiki/Tin"><span title="Sn, tin">Tin</span></a></span></p>
+<p><span class="nounderlines"><a title="Tin" href="https://en.wikipedia.org/wiki/Tin"><span title="Sn, tin">50</span></a></span></p>
+<p><span class="nounderlines"><a title="Tin" href="https://en.wikipedia.org/wiki/Tin"><span title="Sn, tin">Sn</span></a></span></p>
+<p><span class="nounderlines"><a title="Tin" href="https://en.wikipedia.org/wiki/Tin"><span title="Sn, tin"><span class="nowrap">118.71</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Antimony" href="https://en.wikipedia.org/wiki/Antimony"><span title="Sb, antimony">Anti&shy;mony</span></a></span></p>
+<p><span class="nounderlines"><a title="Antimony" href="https://en.wikipedia.org/wiki/Antimony"><span title="Sb, antimony">51</span></a></span></p>
+<p><span class="nounderlines"><a title="Antimony" href="https://en.wikipedia.org/wiki/Antimony"><span title="Sb, antimony">Sb</span></a></span></p>
+<p><span class="nounderlines"><a title="Antimony" href="https://en.wikipedia.org/wiki/Antimony"><span title="Sb, antimony"><span class="nowrap">121.76</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Tellurium" href="https://en.wikipedia.org/wiki/Tellurium"><span title="Te, tellurium">Tellur&shy;ium</span></a></span></p>
+<p><span class="nounderlines"><a title="Tellurium" href="https://en.wikipedia.org/wiki/Tellurium"><span title="Te, tellurium">52</span></a></span></p>
+<p><span class="nounderlines"><a title="Tellurium" href="https://en.wikipedia.org/wiki/Tellurium"><span title="Te, tellurium">Te</span></a></span></p>
+<p><span class="nounderlines"><a title="Tellurium" href="https://en.wikipedia.org/wiki/Tellurium"><span title="Te, tellurium"><span class="nowrap">127.60</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Iodine" href="https://en.wikipedia.org/wiki/Iodine"><span title="I , iodine">Iodine</span></a></span></p>
+<p><span class="nounderlines"><a title="Iodine" href="https://en.wikipedia.org/wiki/Iodine"><span title="I , iodine">53</span></a></span></p>
+<p><span class="nounderlines"><a title="Iodine" href="https://en.wikipedia.org/wiki/Iodine"><span title="I , iodine">I</span></a></span></p>
+<p><span class="nounderlines"><a title="Iodine" href="https://en.wikipedia.org/wiki/Iodine"><span title="I , iodine"><span class="nowrap">126.90</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Xenon" href="https://en.wikipedia.org/wiki/Xenon"><span title="Xe, xenon">Xenon</span></a></span></p>
+<p><span class="nounderlines"><a title="Xenon" href="https://en.wikipedia.org/wiki/Xenon"><span title="Xe, xenon">54</span></a></span></p>
+<p><span class="nounderlines"><a title="Xenon" href="https://en.wikipedia.org/wiki/Xenon"><span title="Xe, xenon">Xe</span></a></span></p>
+<p><span class="nounderlines"><a title="Xenon" href="https://en.wikipedia.org/wiki/Xenon"><span title="Xe, xenon"><span class="nowrap">131.29</span></span></a></span></p>
+</td>
+</tr>
+<tr>
+<th><a title="Period 6 element" href="https://en.wikipedia.org/wiki/Period_6_element">6</a></th>
+<td>
+<p><span class="nounderlines"><a title="Caesium" href="https://en.wikipedia.org/wiki/Caesium"><span title="Cs, caesium">Cae&shy;sium</span></a></span></p>
+<p><span class="nounderlines"><a title="Caesium" href="https://en.wikipedia.org/wiki/Caesium"><span title="Cs, caesium">55</span></a></span></p>
+<p><span class="nounderlines"><a title="Caesium" href="https://en.wikipedia.org/wiki/Caesium"><span title="Cs, caesium">Cs</span></a></span></p>
+<p><span class="nounderlines"><a title="Caesium" href="https://en.wikipedia.org/wiki/Caesium"><span title="Cs, caesium"><span class="nowrap">132.91</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Barium" href="https://en.wikipedia.org/wiki/Barium"><span title="Ba, barium">Ba&shy;rium</span></a></span></p>
+<p><span class="nounderlines"><a title="Barium" href="https://en.wikipedia.org/wiki/Barium"><span title="Ba, barium">56</span></a></span></p>
+<p><span class="nounderlines"><a title="Barium" href="https://en.wikipedia.org/wiki/Barium"><span title="Ba, barium">Ba</span></a></span></p>
+<p><span class="nounderlines"><a title="Barium" href="https://en.wikipedia.org/wiki/Barium"><span title="Ba, barium"><span class="nowrap">137.33</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Lanthanum" href="https://en.wikipedia.org/wiki/Lanthanum"><span title="La, lanthanum">Lan&shy;thanum</span></a></span></p>
+<p><span class="nounderlines"><a title="Lanthanum" href="https://en.wikipedia.org/wiki/Lanthanum"><span title="La, lanthanum">57</span></a></span></p>
+<p><span class="nounderlines"><a title="Lanthanum" href="https://en.wikipedia.org/wiki/Lanthanum"><span title="La, lanthanum">La</span></a></span></p>
+<p><span class="nounderlines"><a title="Lanthanum" href="https://en.wikipedia.org/wiki/Lanthanum"><span title="La, lanthanum"><span class="nowrap">138.91</span></span></a></span></p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p><span class="nounderlines"><a title="Hafnium" href="https://en.wikipedia.org/wiki/Hafnium"><span title="Hf, hafnium">Haf&shy;nium</span></a></span></p>
+<p><span class="nounderlines"><a title="Hafnium" href="https://en.wikipedia.org/wiki/Hafnium"><span title="Hf, hafnium">72</span></a></span></p>
+<p><span class="nounderlines"><a title="Hafnium" href="https://en.wikipedia.org/wiki/Hafnium"><span title="Hf, hafnium">Hf</span></a></span></p>
+<p><span class="nounderlines"><a title="Hafnium" href="https://en.wikipedia.org/wiki/Hafnium"><span title="Hf, hafnium"><span class="nowrap">178.49</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Tantalum" href="https://en.wikipedia.org/wiki/Tantalum"><span title="Ta, tantalum">Tanta&shy;lum</span></a></span></p>
+<p><span class="nounderlines"><a title="Tantalum" href="https://en.wikipedia.org/wiki/Tantalum"><span title="Ta, tantalum">73</span></a></span></p>
+<p><span class="nounderlines"><a title="Tantalum" href="https://en.wikipedia.org/wiki/Tantalum"><span title="Ta, tantalum">Ta</span></a></span></p>
+<p><span class="nounderlines"><a title="Tantalum" href="https://en.wikipedia.org/wiki/Tantalum"><span title="Ta, tantalum"><span class="nowrap">180.95</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Tungsten" href="https://en.wikipedia.org/wiki/Tungsten"><span title="W , tungsten">Tung&shy;sten</span></a></span></p>
+<p><span class="nounderlines"><a title="Tungsten" href="https://en.wikipedia.org/wiki/Tungsten"><span title="W , tungsten">74</span></a></span></p>
+<p><span class="nounderlines"><a title="Tungsten" href="https://en.wikipedia.org/wiki/Tungsten"><span title="W , tungsten">W</span></a></span></p>
+<p><span class="nounderlines"><a title="Tungsten" href="https://en.wikipedia.org/wiki/Tungsten"><span title="W , tungsten"><span class="nowrap">183.84</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Rhenium" href="https://en.wikipedia.org/wiki/Rhenium"><span title="Re, rhenium">Rhe&shy;nium</span></a></span></p>
+<p><span class="nounderlines"><a title="Rhenium" href="https://en.wikipedia.org/wiki/Rhenium"><span title="Re, rhenium">75</span></a></span></p>
+<p><span class="nounderlines"><a title="Rhenium" href="https://en.wikipedia.org/wiki/Rhenium"><span title="Re, rhenium">Re</span></a></span></p>
+<p><span class="nounderlines"><a title="Rhenium" href="https://en.wikipedia.org/wiki/Rhenium"><span title="Re, rhenium"><span class="nowrap">186.21</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Osmium" href="https://en.wikipedia.org/wiki/Osmium"><span title="Os, osmium">Os&shy;mium</span></a></span></p>
+<p><span class="nounderlines"><a title="Osmium" href="https://en.wikipedia.org/wiki/Osmium"><span title="Os, osmium">76</span></a></span></p>
+<p><span class="nounderlines"><a title="Osmium" href="https://en.wikipedia.org/wiki/Osmium"><span title="Os, osmium">Os</span></a></span></p>
+<p><span class="nounderlines"><a title="Osmium" href="https://en.wikipedia.org/wiki/Osmium"><span title="Os, osmium"><span class="nowrap">190.23</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Iridium" href="https://en.wikipedia.org/wiki/Iridium"><span title="Ir, iridium">Iridium</span></a></span></p>
+<p><span class="nounderlines"><a title="Iridium" href="https://en.wikipedia.org/wiki/Iridium"><span title="Ir, iridium">77</span></a></span></p>
+<p><span class="nounderlines"><a title="Iridium" href="https://en.wikipedia.org/wiki/Iridium"><span title="Ir, iridium">Ir</span></a></span></p>
+<p><span class="nounderlines"><a title="Iridium" href="https://en.wikipedia.org/wiki/Iridium"><span title="Ir, iridium"><span class="nowrap">192.22</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Platinum" href="https://en.wikipedia.org/wiki/Platinum"><span title="Pt, platinum">Plat&shy;inum</span></a></span></p>
+<p><span class="nounderlines"><a title="Platinum" href="https://en.wikipedia.org/wiki/Platinum"><span title="Pt, platinum">78</span></a></span></p>
+<p><span class="nounderlines"><a title="Platinum" href="https://en.wikipedia.org/wiki/Platinum"><span title="Pt, platinum">Pt</span></a></span></p>
+<p><span class="nounderlines"><a title="Platinum" href="https://en.wikipedia.org/wiki/Platinum"><span title="Pt, platinum"><span class="nowrap">195.08</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Gold" href="https://en.wikipedia.org/wiki/Gold"><span title="Au, gold">Gold</span></a></span></p>
+<p><span class="nounderlines"><a title="Gold" href="https://en.wikipedia.org/wiki/Gold"><span title="Au, gold">79</span></a></span></p>
+<p><span class="nounderlines"><a title="Gold" href="https://en.wikipedia.org/wiki/Gold"><span title="Au, gold">Au</span></a></span></p>
+<p><span class="nounderlines"><a title="Gold" href="https://en.wikipedia.org/wiki/Gold"><span title="Au, gold"><span class="nowrap">196.97</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Mercury (element)" href="https://en.wikipedia.org/wiki/Mercury_(element)"><span title="Hg, mercury">Mer&shy;cury</span></a></span></p>
+<p><span class="nounderlines"><a title="Mercury (element)" href="https://en.wikipedia.org/wiki/Mercury_(element)"><span title="Hg, mercury">80</span></a></span></p>
+<p><span class="nounderlines"><a title="Mercury (element)" href="https://en.wikipedia.org/wiki/Mercury_(element)"><span title="Hg, mercury">Hg</span></a></span></p>
+<p><span class="nounderlines"><a title="Mercury (element)" href="https://en.wikipedia.org/wiki/Mercury_(element)"><span title="Hg, mercury"><span class="nowrap">200.59</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Thallium" href="https://en.wikipedia.org/wiki/Thallium"><span title="Tl, thallium">Thallium</span></a></span></p>
+<p><span class="nounderlines"><a title="Thallium" href="https://en.wikipedia.org/wiki/Thallium"><span title="Tl, thallium">81</span></a></span></p>
+<p><span class="nounderlines"><a title="Thallium" href="https://en.wikipedia.org/wiki/Thallium"><span title="Tl, thallium">Tl</span></a></span></p>
+<p><span class="nounderlines"><a title="Thallium" href="https://en.wikipedia.org/wiki/Thallium"><span title="Tl, thallium"><span class="nowrap">204.38</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Lead" href="https://en.wikipedia.org/wiki/Lead"><span title="Pb, lead">Lead</span></a></span></p>
+<p><span class="nounderlines"><a title="Lead" href="https://en.wikipedia.org/wiki/Lead"><span title="Pb, lead">82</span></a></span></p>
+<p><span class="nounderlines"><a title="Lead" href="https://en.wikipedia.org/wiki/Lead"><span title="Pb, lead">Pb</span></a></span></p>
+<p><span class="nounderlines"><a title="Lead" href="https://en.wikipedia.org/wiki/Lead"><span title="Pb, lead"><span class="nowrap">207.2</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Bismuth" href="https://en.wikipedia.org/wiki/Bismuth"><span title="Bi, bismuth">Bis&shy;muth</span></a></span></p>
+<p><span class="nounderlines"><a title="Bismuth" href="https://en.wikipedia.org/wiki/Bismuth"><span title="Bi, bismuth">83</span></a></span></p>
+<p><span class="nounderlines"><a title="Bismuth" href="https://en.wikipedia.org/wiki/Bismuth"><span title="Bi, bismuth">Bi</span></a></span></p>
+<p><span class="nounderlines"><a title="Bismuth" href="https://en.wikipedia.org/wiki/Bismuth"><span title="Bi, bismuth"><span class="nowrap">208.98</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Polonium" href="https://en.wikipedia.org/wiki/Polonium"><span title="Po, polonium">Polo&shy;nium</span></a></span></p>
+<p><span class="nounderlines"><a title="Polonium" href="https://en.wikipedia.org/wiki/Polonium"><span title="Po, polonium">84</span></a></span></p>
+<p><span class="nounderlines"><a title="Polonium" href="https://en.wikipedia.org/wiki/Polonium"><span title="Po, polonium">Po</span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Astatine" href="https://en.wikipedia.org/wiki/Astatine"><span title="At, astatine">Asta&shy;tine</span></a></span></p>
+<p><span class="nounderlines"><a title="Astatine" href="https://en.wikipedia.org/wiki/Astatine"><span title="At, astatine">85</span></a></span></p>
+<p><span class="nounderlines"><a title="Astatine" href="https://en.wikipedia.org/wiki/Astatine"><span title="At, astatine">At</span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Radon" href="https://en.wikipedia.org/wiki/Radon"><span title="Rn, radon">Radon</span></a></span></p>
+<p><span class="nounderlines"><a title="Radon" href="https://en.wikipedia.org/wiki/Radon"><span title="Rn, radon">86</span></a></span></p>
+<p><span class="nounderlines"><a title="Radon" href="https://en.wikipedia.org/wiki/Radon"><span title="Rn, radon">Rn</span></a></span></p>
+</td>
+</tr>
+<tr>
+<th><a title="Period 7 element" href="https://en.wikipedia.org/wiki/Period_7_element">7</a></th>
+<td>
+<p><span class="nounderlines"><a title="Francium" href="https://en.wikipedia.org/wiki/Francium"><span title="Fr, francium">Fran&shy;cium</span></a></span></p>
+<p><span class="nounderlines"><a title="Francium" href="https://en.wikipedia.org/wiki/Francium"><span title="Fr, francium">87</span></a></span></p>
+<p><span class="nounderlines"><a title="Francium" href="https://en.wikipedia.org/wiki/Francium"><span title="Fr, francium">Fr</span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="" href="https://en.wikipedia.org/wiki/Radium"><span title="Ra, radium">Ra&shy;dium</span></a></span></p>
+<p><span class="nounderlines"><a title="" href="https://en.wikipedia.org/wiki/Radium"><span title="Ra, radium">88</span></a></span></p>
+<p><span class="nounderlines"><a title="" href="https://en.wikipedia.org/wiki/Radium"><span title="Ra, radium">Ra</span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Actinium" href="https://en.wikipedia.org/wiki/Actinium"><span title="Ac, actinium">Actin&shy;ium</span></a></span></p>
+<p><span class="nounderlines"><a title="Actinium" href="https://en.wikipedia.org/wiki/Actinium"><span title="Ac, actinium">89</span></a></span></p>
+<p><span class="nounderlines"><a title="Actinium" href="https://en.wikipedia.org/wiki/Actinium"><span title="Ac, actinium">Ac</span></a></span></p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p><span class="nounderlines"><a title="Rutherfordium" href="https://en.wikipedia.org/wiki/Rutherfordium"><span title="Rf, rutherfordium">Ruther&shy;fordium</span></a></span></p>
+<p><span class="nounderlines"><a title="Rutherfordium" href="https://en.wikipedia.org/wiki/Rutherfordium"><span title="Rf, rutherfordium">104</span></a></span></p>
+<p><span class="nounderlines"><a title="Rutherfordium" href="https://en.wikipedia.org/wiki/Rutherfordium"><span title="Rf, rutherfordium">Rf</span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Dubnium" href="https://en.wikipedia.org/wiki/Dubnium"><span title="Db, dubnium">Dub&shy;nium</span></a></span></p>
+<p><span class="nounderlines"><a title="Dubnium" href="https://en.wikipedia.org/wiki/Dubnium"><span title="Db, dubnium">105</span></a></span></p>
+<p><span class="nounderlines"><a title="Dubnium" href="https://en.wikipedia.org/wiki/Dubnium"><span title="Db, dubnium">Db</span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Seaborgium" href="https://en.wikipedia.org/wiki/Seaborgium"><span title="Sg, seaborgium">Sea&shy;borgium</span></a></span></p>
+<p><span class="nounderlines"><a title="Seaborgium" href="https://en.wikipedia.org/wiki/Seaborgium"><span title="Sg, seaborgium">106</span></a></span></p>
+<p><span class="nounderlines"><a title="Seaborgium" href="https://en.wikipedia.org/wiki/Seaborgium"><span title="Sg, seaborgium">Sg</span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Bohrium" href="https://en.wikipedia.org/wiki/Bohrium"><span title="Bh, bohrium">Bohr&shy;ium</span></a></span></p>
+<p><span class="nounderlines"><a title="Bohrium" href="https://en.wikipedia.org/wiki/Bohrium"><span title="Bh, bohrium">107</span></a></span></p>
+<p><span class="nounderlines"><a title="Bohrium" href="https://en.wikipedia.org/wiki/Bohrium"><span title="Bh, bohrium">Bh</span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Hassium" href="https://en.wikipedia.org/wiki/Hassium"><span title="Hs, hassium">Has&shy;sium</span></a></span></p>
+<p><span class="nounderlines"><a title="Hassium" href="https://en.wikipedia.org/wiki/Hassium"><span title="Hs, hassium">108</span></a></span></p>
+<p><span class="nounderlines"><a title="Hassium" href="https://en.wikipedia.org/wiki/Hassium"><span title="Hs, hassium">Hs</span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Meitnerium" href="https://en.wikipedia.org/wiki/Meitnerium"><span title="Mt, meitnerium">Meit&shy;nerium</span></a></span></p>
+<p><span class="nounderlines"><a title="Meitnerium" href="https://en.wikipedia.org/wiki/Meitnerium"><span title="Mt, meitnerium">109</span></a></span></p>
+<p><span class="nounderlines"><a title="Meitnerium" href="https://en.wikipedia.org/wiki/Meitnerium"><span title="Mt, meitnerium">Mt</span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Darmstadtium" href="https://en.wikipedia.org/wiki/Darmstadtium"><span title="Ds, darmstadtium">Darm&shy;stadtium</span></a></span></p>
+<p><span class="nounderlines"><a title="Darmstadtium" href="https://en.wikipedia.org/wiki/Darmstadtium"><span title="Ds, darmstadtium">110</span></a></span></p>
+<p><span class="nounderlines"><a title="Darmstadtium" href="https://en.wikipedia.org/wiki/Darmstadtium"><span title="Ds, darmstadtium">Ds</span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Roentgenium" href="https://en.wikipedia.org/wiki/Roentgenium"><span title="Rg, roentgenium">Roent&shy;genium</span></a></span></p>
+<p><span class="nounderlines"><a title="Roentgenium" href="https://en.wikipedia.org/wiki/Roentgenium"><span title="Rg, roentgenium">111</span></a></span></p>
+<p><span class="nounderlines"><a title="Roentgenium" href="https://en.wikipedia.org/wiki/Roentgenium"><span title="Rg, roentgenium">Rg</span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Copernicium" href="https://en.wikipedia.org/wiki/Copernicium"><span title="Cn, copernicium">Coper&shy;nicium</span></a></span></p>
+<p><span class="nounderlines"><a title="Copernicium" href="https://en.wikipedia.org/wiki/Copernicium"><span title="Cn, copernicium">112</span></a></span></p>
+<p><span class="nounderlines"><a title="Copernicium" href="https://en.wikipedia.org/wiki/Copernicium"><span title="Cn, copernicium">Cn</span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Nihonium" href="https://en.wikipedia.org/wiki/Nihonium"><span title="Nh, nihonium">Nihon&shy;ium</span></a></span></p>
+<p><span class="nounderlines"><a title="Nihonium" href="https://en.wikipedia.org/wiki/Nihonium"><span title="Nh, nihonium">113</span></a></span></p>
+<p><span class="nounderlines"><a title="Nihonium" href="https://en.wikipedia.org/wiki/Nihonium"><span title="Nh, nihonium">Nh</span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Flerovium" href="https://en.wikipedia.org/wiki/Flerovium"><span title="Fl, flerovium">Flerov&shy;ium</span></a></span></p>
+<p><span class="nounderlines"><a title="Flerovium" href="https://en.wikipedia.org/wiki/Flerovium"><span title="Fl, flerovium">114</span></a></span></p>
+<p><span class="nounderlines"><a title="Flerovium" href="https://en.wikipedia.org/wiki/Flerovium"><span title="Fl, flerovium">Fl</span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Moscovium" href="https://en.wikipedia.org/wiki/Moscovium"><span title="Mc, moscovium">Moscov&shy;ium</span></a></span></p>
+<p><span class="nounderlines"><a title="Moscovium" href="https://en.wikipedia.org/wiki/Moscovium"><span title="Mc, moscovium">115</span></a></span></p>
+<p><span class="nounderlines"><a title="Moscovium" href="https://en.wikipedia.org/wiki/Moscovium"><span title="Mc, moscovium">Mc</span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Livermorium" href="https://en.wikipedia.org/wiki/Livermorium"><span title="Lv, livermorium">Liver&shy;morium</span></a></span></p>
+<p><span class="nounderlines"><a title="Livermorium" href="https://en.wikipedia.org/wiki/Livermorium"><span title="Lv, livermorium">116</span></a></span></p>
+<p><span class="nounderlines"><a title="Livermorium" href="https://en.wikipedia.org/wiki/Livermorium"><span title="Lv, livermorium">Lv</span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Tennessine" href="https://en.wikipedia.org/wiki/Tennessine"><span title="Ts, tennessine">Tenness&shy;ine</span></a></span></p>
+<p><span class="nounderlines"><a title="Tennessine" href="https://en.wikipedia.org/wiki/Tennessine"><span title="Ts, tennessine">117</span></a></span></p>
+<p><span class="nounderlines"><a title="Tennessine" href="https://en.wikipedia.org/wiki/Tennessine"><span title="Ts, tennessine">Ts</span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Oganesson" href="https://en.wikipedia.org/wiki/Oganesson"><span title="Og, oganesson">Oga&shy;nesson</span></a></span></p>
+<p><span class="nounderlines"><a title="Oganesson" href="https://en.wikipedia.org/wiki/Oganesson"><span title="Og, oganesson">118</span></a></span></p>
+<p><span class="nounderlines"><a title="Oganesson" href="https://en.wikipedia.org/wiki/Oganesson"><span title="Og, oganesson">Og</span></a></span></p>
+</td>
+</tr>
+<tr>
+<td colspan="20">&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>
+<p><span class="nounderlines"><a title="Cerium" href="https://en.wikipedia.org/wiki/Cerium"><span title="Ce, cerium">Cerium</span></a></span></p>
+<p><span class="nounderlines"><a title="Cerium" href="https://en.wikipedia.org/wiki/Cerium"><span title="Ce, cerium">58</span></a></span></p>
+<p><span class="nounderlines"><a title="Cerium" href="https://en.wikipedia.org/wiki/Cerium"><span title="Ce, cerium">Ce</span></a></span></p>
+<p><span class="nounderlines"><a title="Cerium" href="https://en.wikipedia.org/wiki/Cerium"><span title="Ce, cerium"><span class="nowrap">140.12</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Praseodymium" href="https://en.wikipedia.org/wiki/Praseodymium"><span title="Pr, praseodymium">Praseo&shy;dymium</span></a></span></p>
+<p><span class="nounderlines"><a title="Praseodymium" href="https://en.wikipedia.org/wiki/Praseodymium"><span title="Pr, praseodymium">59</span></a></span></p>
+<p><span class="nounderlines"><a title="Praseodymium" href="https://en.wikipedia.org/wiki/Praseodymium"><span title="Pr, praseodymium">Pr</span></a></span></p>
+<p><span class="nounderlines"><a title="Praseodymium" href="https://en.wikipedia.org/wiki/Praseodymium"><span title="Pr, praseodymium"><span class="nowrap">140.91</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Neodymium" href="https://en.wikipedia.org/wiki/Neodymium"><span title="Nd, neodymium">Neo&shy;dymium</span></a></span></p>
+<p><span class="nounderlines"><a title="Neodymium" href="https://en.wikipedia.org/wiki/Neodymium"><span title="Nd, neodymium">60</span></a></span></p>
+<p><span class="nounderlines"><a title="Neodymium" href="https://en.wikipedia.org/wiki/Neodymium"><span title="Nd, neodymium">Nd</span></a></span></p>
+<p><span class="nounderlines"><a title="Neodymium" href="https://en.wikipedia.org/wiki/Neodymium"><span title="Nd, neodymium"><span class="nowrap">144.24</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Promethium" href="https://en.wikipedia.org/wiki/Promethium"><span title="Pm, promethium">Prome&shy;thium</span></a></span></p>
+<p><span class="nounderlines"><a title="Promethium" href="https://en.wikipedia.org/wiki/Promethium"><span title="Pm, promethium">61</span></a></span></p>
+<p><span class="nounderlines"><a title="Promethium" href="https://en.wikipedia.org/wiki/Promethium"><span title="Pm, promethium">Pm</span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Samarium" href="https://en.wikipedia.org/wiki/Samarium"><span title="Sm, samarium">Sama&shy;rium</span></a></span></p>
+<p><span class="nounderlines"><a title="Samarium" href="https://en.wikipedia.org/wiki/Samarium"><span title="Sm, samarium">62</span></a></span></p>
+<p><span class="nounderlines"><a title="Samarium" href="https://en.wikipedia.org/wiki/Samarium"><span title="Sm, samarium">Sm</span></a></span></p>
+<p><span class="nounderlines"><a title="Samarium" href="https://en.wikipedia.org/wiki/Samarium"><span title="Sm, samarium"><span class="nowrap">150.36</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Europium" href="https://en.wikipedia.org/wiki/Europium"><span title="Eu, europium">Europ&shy;ium</span></a></span></p>
+<p><span class="nounderlines"><a title="Europium" href="https://en.wikipedia.org/wiki/Europium"><span title="Eu, europium">63</span></a></span></p>
+<p><span class="nounderlines"><a title="Europium" href="https://en.wikipedia.org/wiki/Europium"><span title="Eu, europium">Eu</span></a></span></p>
+<p><span class="nounderlines"><a title="Europium" href="https://en.wikipedia.org/wiki/Europium"><span title="Eu, europium"><span class="nowrap">151.96</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Gadolinium" href="https://en.wikipedia.org/wiki/Gadolinium"><span title="Gd, gadolinium">Gadolin&shy;ium</span></a></span></p>
+<p><span class="nounderlines"><a title="Gadolinium" href="https://en.wikipedia.org/wiki/Gadolinium"><span title="Gd, gadolinium">64</span></a></span></p>
+<p><span class="nounderlines"><a title="Gadolinium" href="https://en.wikipedia.org/wiki/Gadolinium"><span title="Gd, gadolinium">Gd</span></a></span></p>
+<p><span class="nounderlines"><a title="Gadolinium" href="https://en.wikipedia.org/wiki/Gadolinium"><span title="Gd, gadolinium"><span class="nowrap">157.25</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Terbium" href="https://en.wikipedia.org/wiki/Terbium"><span title="Tb, terbium">Ter&shy;bium</span></a></span></p>
+<p><span class="nounderlines"><a title="Terbium" href="https://en.wikipedia.org/wiki/Terbium"><span title="Tb, terbium">65</span></a></span></p>
+<p><span class="nounderlines"><a title="Terbium" href="https://en.wikipedia.org/wiki/Terbium"><span title="Tb, terbium">Tb</span></a></span></p>
+<p><span class="nounderlines"><a title="Terbium" href="https://en.wikipedia.org/wiki/Terbium"><span title="Tb, terbium"><span class="nowrap">158.93</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Dysprosium" href="https://en.wikipedia.org/wiki/Dysprosium"><span title="Dy, dysprosium">Dyspro&shy;sium</span></a></span></p>
+<p><span class="nounderlines"><a title="Dysprosium" href="https://en.wikipedia.org/wiki/Dysprosium"><span title="Dy, dysprosium">66</span></a></span></p>
+<p><span class="nounderlines"><a title="Dysprosium" href="https://en.wikipedia.org/wiki/Dysprosium"><span title="Dy, dysprosium">Dy</span></a></span></p>
+<p><span class="nounderlines"><a title="Dysprosium" href="https://en.wikipedia.org/wiki/Dysprosium"><span title="Dy, dysprosium"><span class="nowrap">162.50</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Holmium" href="https://en.wikipedia.org/wiki/Holmium"><span title="Ho, holmium">Hol&shy;mium</span></a></span></p>
+<p><span class="nounderlines"><a title="Holmium" href="https://en.wikipedia.org/wiki/Holmium"><span title="Ho, holmium">67</span></a></span></p>
+<p><span class="nounderlines"><a title="Holmium" href="https://en.wikipedia.org/wiki/Holmium"><span title="Ho, holmium">Ho</span></a></span></p>
+<p><span class="nounderlines"><a title="Holmium" href="https://en.wikipedia.org/wiki/Holmium"><span title="Ho, holmium"><span class="nowrap">164.93</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Erbium" href="https://en.wikipedia.org/wiki/Erbium"><span title="Er, erbium">Erbium</span></a></span></p>
+<p><span class="nounderlines"><a title="Erbium" href="https://en.wikipedia.org/wiki/Erbium"><span title="Er, erbium">68</span></a></span></p>
+<p><span class="nounderlines"><a title="Erbium" href="https://en.wikipedia.org/wiki/Erbium"><span title="Er, erbium">Er</span></a></span></p>
+<p><span class="nounderlines"><a title="Erbium" href="https://en.wikipedia.org/wiki/Erbium"><span title="Er, erbium"><span class="nowrap">167.26</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Thulium" href="https://en.wikipedia.org/wiki/Thulium"><span title="Tm, thulium">Thulium</span></a></span></p>
+<p><span class="nounderlines"><a title="Thulium" href="https://en.wikipedia.org/wiki/Thulium"><span title="Tm, thulium">69</span></a></span></p>
+<p><span class="nounderlines"><a title="Thulium" href="https://en.wikipedia.org/wiki/Thulium"><span title="Tm, thulium">Tm</span></a></span></p>
+<p><span class="nounderlines"><a title="Thulium" href="https://en.wikipedia.org/wiki/Thulium"><span title="Tm, thulium"><span class="nowrap">168.93</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Ytterbium" href="https://en.wikipedia.org/wiki/Ytterbium"><span title="Yb, ytterbium">Ytter&shy;bium</span></a></span></p>
+<p><span class="nounderlines"><a title="Ytterbium" href="https://en.wikipedia.org/wiki/Ytterbium"><span title="Yb, ytterbium">70</span></a></span></p>
+<p><span class="nounderlines"><a title="Ytterbium" href="https://en.wikipedia.org/wiki/Ytterbium"><span title="Yb, ytterbium">Yb</span></a></span></p>
+<p><span class="nounderlines"><a title="Ytterbium" href="https://en.wikipedia.org/wiki/Ytterbium"><span title="Yb, ytterbium"><span class="nowrap">173.05</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Lutetium" href="https://en.wikipedia.org/wiki/Lutetium"><span title="Lu, lutetium">Lute&shy;tium</span></a></span></p>
+<p><span class="nounderlines"><a title="Lutetium" href="https://en.wikipedia.org/wiki/Lutetium"><span title="Lu, lutetium">71</span></a></span></p>
+<p><span class="nounderlines"><a title="Lutetium" href="https://en.wikipedia.org/wiki/Lutetium"><span title="Lu, lutetium">Lu</span></a></span></p>
+<p><span class="nounderlines"><a title="Lutetium" href="https://en.wikipedia.org/wiki/Lutetium"><span title="Lu, lutetium"><span class="nowrap">174.97</span></span></a></span></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td colspan="4">&nbsp;</td>
+<td>&nbsp;</td>
+<td>
+<p><span class="nounderlines"><a title="Thorium" href="https://en.wikipedia.org/wiki/Thorium"><span title="Th, thorium">Thor&shy;ium</span></a></span></p>
+<p><span class="nounderlines"><a title="Thorium" href="https://en.wikipedia.org/wiki/Thorium"><span title="Th, thorium">90</span></a></span></p>
+<p><span class="nounderlines"><a title="Thorium" href="https://en.wikipedia.org/wiki/Thorium"><span title="Th, thorium">Th</span></a></span></p>
+<p><span class="nounderlines"><a title="Thorium" href="https://en.wikipedia.org/wiki/Thorium"><span title="Th, thorium"><span class="nowrap">232.04</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Protactinium" href="https://en.wikipedia.org/wiki/Protactinium"><span title="Pa, protactinium">Protac&shy;tinium</span></a></span></p>
+<p><span class="nounderlines"><a title="Protactinium" href="https://en.wikipedia.org/wiki/Protactinium"><span title="Pa, protactinium">91</span></a></span></p>
+<p><span class="nounderlines"><a title="Protactinium" href="https://en.wikipedia.org/wiki/Protactinium"><span title="Pa, protactinium">Pa</span></a></span></p>
+<p><span class="nounderlines"><a title="Protactinium" href="https://en.wikipedia.org/wiki/Protactinium"><span title="Pa, protactinium"><span class="nowrap">231.04</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Uranium" href="https://en.wikipedia.org/wiki/Uranium"><span title="U , uranium">Ura&shy;nium</span></a></span></p>
+<p><span class="nounderlines"><a title="Uranium" href="https://en.wikipedia.org/wiki/Uranium"><span title="U , uranium">92</span></a></span></p>
+<p><span class="nounderlines"><a title="Uranium" href="https://en.wikipedia.org/wiki/Uranium"><span title="U , uranium">U</span></a></span></p>
+<p><span class="nounderlines"><a title="Uranium" href="https://en.wikipedia.org/wiki/Uranium"><span title="U , uranium"><span class="nowrap">238.03</span></span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Neptunium" href="https://en.wikipedia.org/wiki/Neptunium"><span title="Np, neptunium">Neptu&shy;nium</span></a></span></p>
+<p><span class="nounderlines"><a title="Neptunium" href="https://en.wikipedia.org/wiki/Neptunium"><span title="Np, neptunium">93</span></a></span></p>
+<p><span class="nounderlines"><a title="Neptunium" href="https://en.wikipedia.org/wiki/Neptunium"><span title="Np, neptunium">Np</span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Plutonium" href="https://en.wikipedia.org/wiki/Plutonium"><span title="Pu, plutonium">Pluto&shy;nium</span></a></span></p>
+<p><span class="nounderlines"><a title="Plutonium" href="https://en.wikipedia.org/wiki/Plutonium"><span title="Pu, plutonium">94</span></a></span></p>
+<p><span class="nounderlines"><a title="Plutonium" href="https://en.wikipedia.org/wiki/Plutonium"><span title="Pu, plutonium">Pu</span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Americium" href="https://en.wikipedia.org/wiki/Americium"><span title="Am, americium">Ameri&shy;cium</span></a></span></p>
+<p><span class="nounderlines"><a title="Americium" href="https://en.wikipedia.org/wiki/Americium"><span title="Am, americium">95</span></a></span></p>
+<p><span class="nounderlines"><a title="Americium" href="https://en.wikipedia.org/wiki/Americium"><span title="Am, americium">Am</span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Curium" href="https://en.wikipedia.org/wiki/Curium"><span title="Cm, curium">Curium</span></a></span></p>
+<p><span class="nounderlines"><a title="Curium" href="https://en.wikipedia.org/wiki/Curium"><span title="Cm, curium">96</span></a></span></p>
+<p><span class="nounderlines"><a title="Curium" href="https://en.wikipedia.org/wiki/Curium"><span title="Cm, curium">Cm</span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Berkelium" href="https://en.wikipedia.org/wiki/Berkelium"><span title="Bk, berkelium">Berkel&shy;ium</span></a></span></p>
+<p><span class="nounderlines"><a title="Berkelium" href="https://en.wikipedia.org/wiki/Berkelium"><span title="Bk, berkelium">97</span></a></span></p>
+<p><span class="nounderlines"><a title="Berkelium" href="https://en.wikipedia.org/wiki/Berkelium"><span title="Bk, berkelium">Bk</span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Californium" href="https://en.wikipedia.org/wiki/Californium"><span title="Cf, californium">Califor&shy;nium</span></a></span></p>
+<p><span class="nounderlines"><a title="Californium" href="https://en.wikipedia.org/wiki/Californium"><span title="Cf, californium">98</span></a></span></p>
+<p><span class="nounderlines"><a title="Californium" href="https://en.wikipedia.org/wiki/Californium"><span title="Cf, californium">Cf</span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Einsteinium" href="https://en.wikipedia.org/wiki/Einsteinium"><span title="Es, einsteinium">Einstei&shy;nium</span></a></span></p>
+<p><span class="nounderlines"><a title="Einsteinium" href="https://en.wikipedia.org/wiki/Einsteinium"><span title="Es, einsteinium">99</span></a></span></p>
+<p><span class="nounderlines"><a title="Einsteinium" href="https://en.wikipedia.org/wiki/Einsteinium"><span title="Es, einsteinium">Es</span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Fermium" href="https://en.wikipedia.org/wiki/Fermium"><span title="Fm, fermium">Fer&shy;mium</span></a></span></p>
+<p><span class="nounderlines"><a title="Fermium" href="https://en.wikipedia.org/wiki/Fermium"><span title="Fm, fermium">100</span></a></span></p>
+<p><span class="nounderlines"><a title="Fermium" href="https://en.wikipedia.org/wiki/Fermium"><span title="Fm, fermium">Fm</span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Mendelevium" href="https://en.wikipedia.org/wiki/Mendelevium"><span title="Md, mendelevium">Mende&shy;levium</span></a></span></p>
+<p><span class="nounderlines"><a title="Mendelevium" href="https://en.wikipedia.org/wiki/Mendelevium"><span title="Md, mendelevium">101</span></a></span></p>
+<p><span class="nounderlines"><a title="Mendelevium" href="https://en.wikipedia.org/wiki/Mendelevium"><span title="Md, mendelevium">Md</span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Nobelium" href="https://en.wikipedia.org/wiki/Nobelium"><span title="No, nobelium">Nobel&shy;ium</span></a></span></p>
+<p><span class="nounderlines"><a title="Nobelium" href="https://en.wikipedia.org/wiki/Nobelium"><span title="No, nobelium">102</span></a></span></p>
+<p><span class="nounderlines"><a title="Nobelium" href="https://en.wikipedia.org/wiki/Nobelium"><span title="No, nobelium">No</span></a></span></p>
+</td>
+<td>
+<p><span class="nounderlines"><a title="Lawrencium" href="https://en.wikipedia.org/wiki/Lawrencium"><span title="Lr, lawrencium">Lawren&shy;cium</span></a></span></p>
+<p><span class="nounderlines"><a title="Lawrencium" href="https://en.wikipedia.org/wiki/Lawrencium"><span title="Lr, lawrencium">103</span></a></span></p>
+<p><span class="nounderlines"><a title="Lawrencium" href="https://en.wikipedia.org/wiki/Lawrencium"><span title="Lr, lawrencium">Lr</span></a></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
