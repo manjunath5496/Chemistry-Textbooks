@@ -1484,6 +1484,9 @@ Bioorganic Chemistry Lecture Notes</a></li>
 <dd><a href="m/lecture_17.pdf" data-smd-id="s53">lecture_17.pdf</a>&nbsp;(680 KB)</dd>
 </dl>
 </br>
+<h4>Prof. Fogler's Lecture Notes </h4>
+<hr>
+
 
 <p>Lecture 1 - Chapter 1 (Mole Balances)</p>
 <ul>
