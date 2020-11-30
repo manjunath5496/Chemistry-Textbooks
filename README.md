@@ -516,7 +516,45 @@ Professor David Sherrill's Notes on Quantum Chemistry</a></li>
 
 </br>
 
-
+<table border="0" width="100%" cellspacing="0" cellpadding="2">
+<tbody>
+<tr>
+<td>
+<p><strong><a href="notes/Fall%202009%20333%20HW%203.pdf" data-smd-id="s187">Problem Set #3&nbsp;</a></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong><a href="notes/Fall%202009%20333%20HW%203KEY.pdf" data-smd-id="s188">Problem Set #3 Key</a></strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="0" width="100%" cellspacing="0" cellpadding="2">
+<tbody>
+<tr>
+<td height="29">
+<p class="style4"><strong><a href="notes/S13%20Review%20Sheet%201%20Exam%201.pdf" data-smd-id="s174">Review Sheet Exam #1</a></strong></p>
+</td>
+</tr>
+<tr>
+<td height="34">
+<p class="style4"><strong><a href="notes/S13%20Review%20Sheet%20Exam%202.pdf" data-smd-id="s175">Review Sheet Exam #2</a></strong></p>
+</td>
+</tr>
+<tr>
+<td height="34">
+<p class="style4"><strong><a href="notes/S13%20Review%20Sheet%20Exam%203.pdf" data-smd-id="s176">Review Sheet Exam #3</a></strong></p>
+</td>
+</tr>
+<tr>
+<td height="34">
+<p class="style4"><strong><a href="notes/S13%20Review%20Sheet%20Exam%204.pdf" data-smd-id="s177">Review Sheet Exam #4</a></strong></p>
+</td>
+</tr>
+</tbody>
+</table>
 
 
 
