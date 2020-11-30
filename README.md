@@ -469,9 +469,7 @@ Professor David Sherrill's Notes on Quantum Chemistry</a></li>
 <p><span lang="en-us"><strong><a href="notes/Spring%202013%20Lecture%2029-30.pdf">Lecture 29 &amp; 30:&nbsp; Glycogen &amp; Ethanol Metabolism and Gluconeogenesis</a></strong></span></p>
 </td>
 </tr>
-<tr>
-<td height="15"><strong>Lecture<span lang="en-us">&nbsp;3</span>1: Pentose Phosphate Pathway (NOT FOR 2013)</strong></td>
-</tr>
+
 <tr>
 <td height="14">
 <p><strong><a href="notes/Spring%202013%20Lecture%2032-33.pdf">Lecture&nbsp;<span lang="en-us">32 &amp; 33</span>: Pyruvated Dehydrogenase &amp; the TCA Cycle</a></strong></p>
