@@ -53,10 +53,23 @@ Freshman Organic Chemistry I</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem125b.zip" style="text-decoration:none;">
 Freshman Organic Chemistry II</a></li> 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(19).pdf" style="text-decoration:none;">
+The Nature of the Chemical Bond</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(20).pdf" style="text-decoration:none;">
+Electrons and Chemical Bonding</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(21).pdf" style="text-decoration:none;">
+Molecular Orbital Theory</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(22).pdf" style="text-decoration:none;">
+Chemical Dynamics</a></li> 
 
-
-
-
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(23).pdf" style="text-decoration:none;">
+Hydrides: Fundamentals and Applications</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(24).pdf" style="text-decoration:none;">
+Surface Chemistry and Catalysis</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(25).pdf" style="text-decoration:none;">
+Differential equations in applied chemistry</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(26).pdf" style="text-decoration:none;">
+A concise history of chemistry</a></li> 
 
 </ul>
 </br>
