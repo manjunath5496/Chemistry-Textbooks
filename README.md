@@ -561,7 +561,7 @@ Professor David Sherrill's Notes on Quantum Chemistry</a></li>
 <li><a href="Lect II Folding.pdf">Lecture II: Folding</a></li>
 <li><a href="Protein databases.pdf">Lecture III: Databases</a></li>
 <li>
-<a href="X-ray%2520Crystallography%2520I.pdf">Lecture IV: X-ray crystallography I</a>
+<a href="X-ray Crystallography I.pdf">Lecture IV: X-ray crystallography I</a>
 </li>
 <li>
 <a href="Xray_II.pdf">Lecture V: X-ray crystallography II</a>
