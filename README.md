@@ -84,7 +84,8 @@ Organometallic Catalysis</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(32).pdf" style="text-decoration:none;">
 The 16 and 18 Electron Rule in Organometallic Chemistry and Homogeneous Catalysis</a></li> 
-
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(33).pdf" style="text-decoration:none;">
+Chemical kinetics in the past few decades</a></li> 
 
 
 </ul>
