@@ -45,7 +45,8 @@ Introductory Quantum Chemistry (Chem 570a: Lecture Notes) </a></li>
 Professor David Sherrill's Notes on Quantum Chemistry</a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(17).pdf" style="text-decoration:none;">
 Allied Health Chemistry: Foundations of General, Organic, and Biological Chemistry</a></li> 
-
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(18).pdf" style="text-decoration:none;">
+Analytical Chemistry Lecture Notes</a></li> 
 
 
 
