@@ -401,12 +401,7 @@ Professor David Sherrill's Notes on Quantum Chemistry</a></li>
 <p><strong><a href="notes/Spring%202012%20Lecture%2010-12.pdf">Lecture 10 - 12: Protein Structure &amp; Function</a></strong></p>
 </td>
 </tr>
-<tr>
-<td>
-<p><strong>Lecture : Protein Purification (NOT FOR 2013)</strong></p>
-<p>&nbsp;<span class="style2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="notes/SDS%20gel.ppt">●&nbsp;&nbsp;</a></span><span lang="en-us"><a href="notes/SDS%20gel.ppt">SDS-PAGE Animation (needs PowerPoint)</a></span></p>
-</td>
-</tr>
+
 <tr>
 <td height="28">
 <p><strong><a href="notes/Spring%202013%20Lecture%2013-14.pdf">Lecture 13 &amp; 14:&nbsp;<span lang="en-us">Introduction to Enzymes</span></a></strong></p>
