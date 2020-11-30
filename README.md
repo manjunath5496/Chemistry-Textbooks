@@ -72,6 +72,21 @@ Differential equations in applied chemistry</a></li>
 A concise history of chemistry</a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(27).pdf" style="text-decoration:none;">
 Bioorganic Chemistry Lecture Notes</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(28).pdf" style="text-decoration:none;">
+Development of the theory of electrolytic dissociation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(29).pdf" style="text-decoration:none;">
+Organometallic chemistry at the threshold of a new millennium Retrospect and prospect</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(30).pdf" style="text-decoration:none;">
+Electron Counting in Organometallic Chemistry</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(31).pdf" style="text-decoration:none;">
+Organometallic Catalysis</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(32).pdf" style="text-decoration:none;">
+The 16 and 18 Electron Rule in Organometallic Chemistry and Homogeneous Catalysis</a></li> 
+
+
+
 </ul>
 </br>
 <p><strong>General Chemistry I Lecture Notes </strong> [Dr. Michael Lufaso]</p>
