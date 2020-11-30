@@ -230,7 +230,46 @@ Chemistry 432 – Lecture Notes </a></li>
 </tr>
 </tbody>
 </table>
+</br>
 
+<p><strong>Chemistry 304B: Organic Chemistry II</strong></p>
+
+<ul>
+<li>&nbsp;<a href="304Blect1.pdf">Lecture 1</a>&nbsp;</li>
+<li>&nbsp;<a href="304B-99-lecture-2.pdf">Lecture 2</a></li>
+<li>&nbsp;<a href="304B-99-lecture-3.pdf">Lecture 3</a></li>
+<li><a href="304B-99-Lecture-4.pdf">&nbsp;Lecture 4</a></li>
+<li><a href="304B-99-Lecture-5.pdf">&nbsp;Lecture 5</a></li>
+<li><a href="304B-99-Lecture-6.pdf">&nbsp;Lecture 6</a></li>
+<li><a href="304B-99-Lecture-7.pdf">&nbsp;Lecture 7</a></li>
+<li>&nbsp;<a href="304B-99-Lecture-8.pdf">Lecture 8</a></li>
+<li>&nbsp;<a href="304B-99-Lecture-9.pdf">Lecture 9</a></li>
+<li>&nbsp;<a href="304B-99-Lecture-10.pdf">Lecture 10</a></li>
+<li>&nbsp;<a href="304B-99-Lecture-11.pdf">Lecture 11</a></li>
+<li>&nbsp;<a href="304B-99-Lecture-12.pdf">Lecture 12</a></li>
+<li>&nbsp;<a href="304B-99-Lecture-14a.pdf">Lecture 14</a></li>
+<li>&nbsp;<a href="304B-99-Lecture-15.pdf">Lecture 15</a></li>
+<li>&nbsp;<a href="304B-99-Lecture-16.pdf">Lecture 16</a></li>
+<li>&nbsp;<a href="304B-99-Lecture-17a.pdf">Lecture 17</a></li>
+<li>&nbsp;<a href="304B-99-Lecture-18.pdf">Lecture 18</a></li>
+<li>&nbsp;<a href="304B-99-Lecture-19.pdf">Lecture 19</a></li>
+<li>&nbsp;<a href="304B-99-Lecture-20.pdf">Lecture 20</a></li>
+<li>&nbsp;<a href="304B-99-Lecture-21.pdf">Lecture 21</a></li>
+<li>&nbsp;<a href="304B-99-Lecture-22.pdf">Lecture 22</a></li>
+<li>&nbsp;<a href="304B-99-Lecture-23.pdf">Lecture 23</a></li>
+<li>&nbsp;<a href="304B-99-Lecture-24.pdf">Lecture 24</a></li>
+<li>&nbsp;<a href="304B-99-Lecture-26.pdf">Lecture 26</a></li>
+<li>&nbsp;<a href="304B-99-Lecture-27.pdf">Lecture 27</a></li>
+<li>&nbsp;<a href="304B-99-Lecture-28.pdf">Lecture 28</a></li>
+<li>&nbsp;<a href="304B-99-Lecture-29.pdf">Lecture 29</a></li>
+<li>&nbsp;<a href="304B-99-Lecture-30.pdf">Lecture 30</a></li>
+<li>&nbsp;<a href="304B-99-Lecture-31.pdf">Lecture 31</a></li>
+<li>&nbsp;<a href="304B-99-Lecture-32.pdf">Lecture 32</a></li>
+<li>&nbsp;<a href="304B-99-Lecture-33.pdf">Lecture 33</a></li>
+<li>&nbsp;<a href="304B-99-Lecture-34.pdf">Lecture 34</a></li>
+<li>&nbsp;<a href="304B-99-Lecture-35.pdf">Lecture 35</a></li>
+<li>&nbsp;<a href="304B-99-Lecture-36.pdf">Lecture 36</a></li>
+</ul>
 
 
 
