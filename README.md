@@ -1633,3 +1633,11 @@ Chemical kinetics in the past few decades</a></li>
 <li><a href="x/Lec32_PDF.pdf" data-smd-id="s138">PDF Slides</a></li>
 </ul>
 
+</br>
+
+
+<p>Week #1: Electronic structure of atoms<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/ge132_week1.pdf">Lecture Notes (PDF 1.35MB)</a><br />Week #2: Atoms and radiation, Selection rules<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/ge132_week2.pdf">Lecture Notes (PDF 449kB)</a><br />Week #3: Collisional excitation/de-excitation of atoms<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/ge132_week3.pdf">Lecture Notes (PDF 223kB)</a><br />Week #4: Atomic applications<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/lec06pc.pdf">Lecture Notes (PDF 802kB)</a><br />Week #5: Rotational spectroscopy<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/lec07.pdf">Lecture Eleven, Twelve (PDF 201kB)</a>,&nbsp;<a href="1/lec08.pdf">Lecture Thirteen (08Feb04 PDF 312kB)</a><br />Week #6: Vibrational spectroscopy<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/lec09.pdf">Lecture Notes (PDF 751kB)</a><br />Week #7: Electronic spectroscopy<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/lec10.pdf">Lecture Notes (PDF 359 kB)</a><br />Week #8: Molecular processes<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/lec11.pdf">Lecture Notes (PDF 860kB)</a><br />Week #9: Molecular applications<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/chapter12a.pdf">Lecture Twenty-Two, Twenty-Three, Twenty-Four (PDF 4.1 MB)</a><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Supplemental notes on&nbsp;<a href="1/hydrogen_formation.pdf">hydrogen formation on grains</a>.<br />Week #10: Molecular applications (concluded)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/chapter12b.pdf">Lecture Twenty-Five, Lecture Twenty-Six (PDF 529kB)</a><br />&nbsp;&nbsp;</p>
+
+
+
+
