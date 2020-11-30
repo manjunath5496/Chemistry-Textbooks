@@ -30,7 +30,8 @@ Chemistry 2e </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(12).pdf" style="text-decoration:none;">
 Chemistry: Atoms First 2e </a></li> 
 
-
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(13).pdf" style="text-decoration:none;">
+Chemistry 432 – Lecture Notes </a></li> 
 
 </ul>
 </br>
