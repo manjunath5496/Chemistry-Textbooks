@@ -70,7 +70,8 @@ Surface Chemistry and Catalysis</a></li>
 Differential equations in applied chemistry</a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(26).pdf" style="text-decoration:none;">
 A concise history of chemistry</a></li> 
-
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(27).pdf" style="text-decoration:none;">
+Bioorganic Chemistry Lecture Notes</a></li> 
 </ul>
 </br>
 <p><strong>General Chemistry I Lecture Notes </strong> [Dr. Michael Lufaso]</p>
