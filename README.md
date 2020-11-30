@@ -48,7 +48,10 @@ Allied Health Chemistry: Foundations of General, Organic, and Biological Chemist
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(18).pdf" style="text-decoration:none;">
 Analytical Chemistry Lecture Notes</a></li> 
 
-
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem125.zip" style="text-decoration:none;">
+Freshman Organic Chemistry I</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem125b.zip" style="text-decoration:none;">
+Freshman Organic Chemistry II</a></li> 
 
 
 
