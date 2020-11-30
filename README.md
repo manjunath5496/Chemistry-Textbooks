@@ -33,6 +33,26 @@ Chemistry: Atoms First 2e </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(13).pdf" style="text-decoration:none;">
 Chemistry 432 – Lecture Notes </a></li> 
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(14).pdf" style="text-decoration:none;">
+Quantum Mechanics Made Simple: Lecture Notes </a></li> 
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(15).pdf" style="text-decoration:none;">
+Lecture Notes in Quantum Mechanics </a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/chem(16).pdf" style="text-decoration:none;">
+Introductory Quantum Chemistry (Chem 570a: Lecture Notes) </a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Textbooks/blob/master/lec1.rar" style="text-decoration:none;">
+Professor David Sherrill's Notes on Quantum Chemistry</a></li> 
+
+
+
+
+
+
+
+
+
+
 </ul>
 </br>
 <p><strong>General Chemistry I Lecture Notes </strong> [Dr. Michael Lufaso]</p>
