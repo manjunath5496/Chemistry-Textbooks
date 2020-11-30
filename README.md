@@ -558,16 +558,8 @@ Professor David Sherrill's Notes on Quantum Chemistry</a></li>
 </br>
 <ul>
 <li><a href="Lect%2520I%2520Intro%2520aas.pdf">Lecture I: Amino acids</a></li>
-<li>
-
-<a href="Lect%2520II%2520Folding.pdf">Lecture II: Folding</a>
-
-</li>
-<li>
-
-<a href="Protein%2520databases%2520.pdf">Lecture III: Databases</a>
-
-</li>
+<li><a href="Lect%2520II%2520Folding.pdf">Lecture II: Folding</a></li>
+<li><a href="Protein%2520databases%2520.pdf">Lecture III: Databases</a></li>
 <li>
 <a href="X-ray%2520Crystallography%2520I.pdf">Lecture IV: X-ray crystallography I</a>
 </li>
