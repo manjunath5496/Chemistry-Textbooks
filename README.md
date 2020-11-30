@@ -557,9 +557,9 @@ Professor David Sherrill's Notes on Quantum Chemistry</a></li>
 </table>
 </br>
 <ul>
-<li><a href="Lect%2520I%2520Intro%2520aas.pdf">Lecture I: Amino acids</a></li>
-<li><a href="Lect%2520II%2520Folding.pdf">Lecture II: Folding</a></li>
-<li><a href="Protein%2520databases%2520.pdf">Lecture III: Databases</a></li>
+<li><a href="Lect I Intro aas.pdf">Lecture I: Amino acids</a></li>
+<li><a href="Lect II Folding.pdf">Lecture II: Folding</a></li>
+<li><a href="Protein databases.pdf">Lecture III: Databases</a></li>
 <li>
 <a href="X-ray%2520Crystallography%2520I.pdf">Lecture IV: X-ray crystallography I</a>
 </li>
@@ -567,19 +567,19 @@ Professor David Sherrill's Notes on Quantum Chemistry</a></li>
 <a href="Xray_II.pdf">Lecture V: X-ray crystallography II</a>
 </li>
 <li>
-<a href="Other%2520methods.pdf">Lecture VI Other methods to determine structure</a>
+<a href="Other methods.pdf">Lecture VI Other methods to determine structure</a>
 </li>
 <li>
-<a href="Helices%2520and%2520sheets.pdf">Lecture VII: Helices and Sheets</a>
+<a href="Helices and sheets.pdf">Lecture VII: Helices and Sheets</a>
 </li>
 <li>
-<a href="Homology%2520modeling.pdf">Lecture VIII: Homology modeling</a>
+<a href="Homology modeling.pdf">Lecture VIII: Homology modeling</a>
 </li>
 <li>
 <a href="AcetylcholinesteraseI.pdf">Lecture IX: Acetylcholinesterase - Function</a>
 </li>
 <li>
-<a href="NGF%2520and%2520its%2520receptor.pdf">Lecture X: NGF and its receptor</a>
+<a href="NGF and its receptor.pdf">Lecture X: NGF and its receptor</a>
 </li>
 </ul>
 </br>
