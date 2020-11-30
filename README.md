@@ -1485,4 +1485,131 @@ Bioorganic Chemistry Lecture Notes</a></li>
 </dl>
 </br>
 
-
+<p>Lecture 1 - Chapter 1 (Mole Balances)</p>
+<ul>
+<li><a href="x/Lec1_PDF.pdf" data-smd-id="s52">PDF Slides</a></li>
+</ul>
+<p><br /><br />Lecture 2 - Chapter 2 (Conversion and Reactor Sizing)</p>
+<ul>
+<li><a href="x/Lec2_PDF.pdf" data-smd-id="s55">PDF Slides</a></li>
+</ul>
+<p><br /><br />Lecture 3 - Chapter 3 (Rate Laws)</p>
+<ul>
+<li><a href="x/Lec3_PDF.pdf" data-smd-id="s58">PDF Slides</a></li>
+</ul>
+<p><br /><br />Lecture 4 - Chapter 4 (Stoichiometry - Liquid systems)</p>
+<ul>
+<li><a href="x/Lec4_PDF.pdf" data-smd-id="s61">PDF Slides</a></li>
+</ul>
+<p><br /><br />Lecture 5 - Chapter 4 (Stoichiometry - Gas systems)</p>
+<ul>
+<li><a href="x/Lec5_PDF.pdf" data-smd-id="s64">PDF Slides</a></li>
+</ul>
+<p><br /><br />Lecture 6 - Chapter 5 (CRE Algorithm)</p>
+<ul>
+<li><a href="x/Lec6_PDF.pdf" data-smd-id="s67">PDF Slides</a></li>
+</ul>
+<p><br /><br />Lecture 7 - Chapter 5 (California Exam Problems)</p>
+<ul>
+<li><a href="x/Lec7_PDF.pdf" data-smd-id="s70">PDF Slides</a></li>
+</ul>
+<p><br /><br />Lecture 8 - Chapter 5 (Pressure Drop)</p>
+<ul>
+<li><a href="x/Lec8_PDF.pdf" data-smd-id="s73">PDF Slides</a></li>
+</ul>
+<p><br /><br />Lecture 9 - Chapter 6 (Membrane Reactors)</p>
+<ul>
+<li><a href="x/Lec9_PDF.pdf" data-smd-id="s76">PDF Slides</a></li>
+</ul>
+<p><br /><br />Lecture 10 - Chapter 6 (Semibatch)</p>
+<ul>
+<li><a href="x/Lec10_PDF.pdf" data-smd-id="s79">PDF Slides</a></li>
+</ul>
+<p><br /><br />Lecture 11 - Chapter 7 (Analysis of Rate)</p>
+<ul>
+<li><a href="x/Lec11_PDF.pdf" data-smd-id="s82">PDF Slides</a></li>
+</ul>
+<p><br /><br />Lecture 12 - Chapter 8 (Series Reactions)</p>
+<ul>
+<li><a href="x/Lec12_PDF.pdf" data-smd-id="s85">PDF Slides</a></li>
+</ul>
+<p><br /><br />Lecture 13 - Chapter 8 (Complex Reactions)</p>
+<ul>
+<li><a href="x/Lec13_PDF.pdf" data-smd-id="s88">PDF Slides</a></li>
+</ul>
+<p><br /><br />Lecture 14 - Chapter 9 (Non-elementary Rate Laws)</p>
+<ul>
+<li><a href="x/Lec14_PDF.pdf" data-smd-id="s91">PDF Slides</a></li>
+</ul>
+<p><br /><br />Lecture 15 - Chapter 9 (Bioreactors)</p>
+<ul>
+<li><a href="x/Lec15_PDF.pdf" data-smd-id="s94">PDF Slides</a></li>
+</ul>
+<p><br /><br />Lecture 16 - Chapter 9 (Biogrowth)</p>
+<ul>
+<li><a href="x/Lec16_PDF.pdf" data-smd-id="s97">PDF Slides</a></li>
+</ul>
+<p><br /><br />Lecture 17 - Chapter 10 (Steps in a Catalytic Reaction)</p>
+<ul>
+<li><a href="x/Lec17_PDF.pdf" data-smd-id="s100">PDF Slides</a></li>
+</ul>
+<p><br /><br />Lecture 18 - Chapter 10 (Reaction Mechanism - Chemical Vapor Deposition)</p>
+<ul>
+<li><a href="x/Lec18_PDF.pdf" data-smd-id="s103">PDF Slides</a></li>
+</ul>
+<p><br /><br />Lecture 19 - Chapter 11 (Energy Balance, Adiabatic Reactors)</p>
+<ul>
+<li><a href="x/Lec19_PDF.pdf" data-smd-id="s106">PDF Slides</a></li>
+</ul>
+<p><br /><br />Lecture 20 - Chapter 11 (Adiabatic CSTR), Chapter 12 (Heat Exchange in a PFR, Reversible Reactions)</p>
+<ul>
+<li><a href="x/Lec20_PDF.pdf" data-smd-id="s109">PDF Slides</a></li>
+</ul>
+<p><br /><br />Lecture 21 - Chapter 12 (Reversible Gas Phase Reaction with Heat Effects, Reactor Staging)</p>
+<ul>
+<li><a href="x/Lec21_PDF.pdf" data-smd-id="s112">PDF Slides</a></li>
+</ul>
+<p><br /><br />Lecture 22 - Chapter 12 (Multiple Steady States)</p>
+<ul>
+<li><a href="x/Lec24_PDF.pdf" data-smd-id="s115">PDF Slides</a></li>
+</ul>
+<p><br /><br />Lecture 23 - Chapter 12 (Multiple Reactions with Heat Effects)</p>
+<ul>
+<li><a href="x/Lec22_PDF.pdf" data-smd-id="s118">PDF Slides</a></li>
+</ul>
+<p><br /><br />Lecture 24 - Chapter 13 (Unsteady State Energy Balance, Multiple Steady States)</p>
+<ul>
+<li><a href="x/Lec23_PDF.pdf" data-smd-id="s121">PDF Slides</a></li>
+</ul>
+<p><br /><br />Lecture 25 - Chapter 13 (Safety in Chemical Reactors)</p>
+<ul>
+<li><a href="x/Lec25_PDF.pdf" data-smd-id="s124">PDF Slides</a></li>
+</ul>
+<p><br /><br />Lecture 26 - Chapter 14 (Mass Transfer limitations)</p>
+<ul>
+<li><a href="x/Lec26_PDF.pdf" data-smd-id="s126">PDF Slides</a></li>
+</ul>
+<p><br /><br />Lecture 27 - Chapter 14 (Diffusion and Reaction)</p>
+<ul>
+<li><a href="x/Lec27_PDF.pdf" data-smd-id="s128">PDF Slides</a></li>
+</ul>
+<p><br /><br />Lecture 28 - Chapter 15 (Diffusion and Reaction)</p>
+<ul>
+<li><a href="x/Lec28_PDF.pdf" data-smd-id="s130">PDF Slides</a></li>
+</ul>
+<p><br /><br />Lecture 29 - Chapter 15 (Diffusion and Reaction)</p>
+<ul>
+<li><a href="x/Lec29_PDF.pdf" data-smd-id="s132">PDF Slides</a></li>
+</ul>
+<p><br /><br />Lecture 30 - Chapter 16 (Distribution of Residence Time)</p>
+<ul>
+<li><a href="x/Lec30_PDF.pdf" data-smd-id="s134">PDF Slides</a></li>
+</ul>
+<p><br /><br />Lecture 31 - Chapter 17 (Models for Nonideal Reactors)</p>
+<ul>
+<li><a href="x/Lec31_PDF.pdf" data-smd-id="s136">PDF Slides</a></li>
+</ul>
+<p><br /><br />Lecture 32 - Chapter 18 (Predicting Conversion)</p>
+<ul>
+<li><a href="x/Lec32_PDF.pdf" data-smd-id="s138">PDF Slides</a></li>
+</ul>
