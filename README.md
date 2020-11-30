@@ -146,8 +146,89 @@ Chemistry: Atoms First 2e </a></li>
 <li><a href="2018_yetter_lecture_7_princeton_summer_school.pdf" data-smd-id="s186">Lecture 7</a></li>
 </ul>
 
+</br>
 
 
+<p><strong>Harvard University Lecture Handouts</strong></p>
+<p>&nbsp;<span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Week 7 Schedule -2014.pdf">Week 7 Schedule -2014.pdf</a></span></p>
+<table border="0">
+<tbody>
+<tr>
+<th>
+<p>Blank Lecture Notes:</p>
+</th>
+<th>
+<p>Annotated Lecture Notes:</p>
+</th>
+</tr>
+<tr>
+<td>
+<p>&nbsp;</p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="2014 Week 1 06-23.pdf">2014 Week 1 06-23.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="2014 Week 1 06-24.pdf">2014 Week 1 06-24.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="2014 Week 1 06-25.pdf">2014 Week 1 06-25.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="2014 Week 1 06-26.pdf">2014 Week 1 06-26.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="2014 Week 1 06-27.pdf">2014 Week 1 06-27.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="2014 Week 2 06-30.pdf">2014 Week 2 06-30.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="2014 Week 2 07-01.pdf">2014 Week 2 07-01.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="2014 Week 2 07-02.pdf">2014 Week 2 07-02.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="2014 Week 2 07-03.pdf">2014 Week 2 07-03.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="2014 Week 3 07-07.pdf">2014 Week 3 07-07.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="2014 Week 3 07-08.pdf">2014 Week 3 07-08.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="2014 Week 3 07-09.pdf">2014 Week 3 07-09.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="2014 Week 3 07-10.pdf">2014 Week 3 07-10.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="2014 Week 3 07-11.pdf">2014 Week 3 07-11.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Lecture Slides Wk 4 July 14.pdf">Lecture Slides Wk 4 July 14.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Lecture Slides Wk 4 July 15.pdf">Lecture Slides Wk 4 July 15.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Lecture Slides Wk 4 July 16.pdf">Lecture Slides Wk 4 July 16.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Lecture Slides Wk 4 July 17.pdf">Lecture Slides Wk 4 July 17.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Lecture Slides Wk 4 July 18.pdf">Lecture Slides Wk 4 July 18.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Lecture Slides Wk 5 July 21.pdf" >Lecture Slides Wk 5 July 21.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Lecture Slides Wk 5 July 22.pdf">Lecture Slides Wk 5 July 22.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Lecture Slides Wk 5 July 23.pdf">Lecture Slides Wk 5 July 23.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Lecture Slides Wk 5 July 24.pdf">Lecture Slides Wk 5 July 24.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Lecture Slides Wk 5 July 25.pdf">Lecture Slides Wk 5 July 25.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Lecture Slides Wk 6 July 28.pdf">Lecture Slides Wk 6 July 28.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Lecture Slides Wk 6 July 29.pdf">Lecture Slides Wk 6 July 29.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Lecture Slides Wk 6 July 30.pdf">Lecture Slides Wk 6 July 30.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Lecture Slides Wk 6 July 31.pdf">Lecture Slides Wk 6 July 31.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Lecture Slides Wk 6 August 1 v2.pdf">Lecture Slides Wk 6 August 1 v2.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Lecture Slides Wk 7 Exam Review.pdf">Lecture Slides Wk 7 Exam Review.pdf</a></span></p>
+</td>
+<td>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="2014 Week 1 06-23-annotated.pdf">2014 Week 1 06-23-annotated.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="2014 Week 1 06-24-annotated.pdf">2014 Week 1 06-24-annotated.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="2014 Week 1 06-25-annotated.pdf">2014 Week 1 06-25-annotated.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="2014 Week 1 06-26-annotated.pdf">2014 Week 1 06-26-annotated.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="2014 Week 1 06-27-annotated.pdf">2014 Week 1 06-27-annotated.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="2014 Week 2 06-30-annotated.pdf">2014 Week 2 06-30-annotated.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="2014 Week 2 07-01-annotated.pdf">2014 Week 2 07-02-annotated.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="2014 Week 2 07-03-annotated.pdf">2014 Week 2 07-03-annotated.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="2014 Week 3 07-07-annotated.pdf">2014 Week 3 07-07-annotated.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="2014 Week 3 07-08-annotated.pdf">2014 Week 3 07-08-annotated.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="2014 Week 3 07-09-annotated.pdf">2014 Week 3 07-09-annotated.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="2014 Week 3 07-10-annotated.pdf">2014 Week 3 07-10-annotated.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="2014 Week 3 07-11-annotated.pdf">2014 Week 3 07-11-annotated.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Lecture Slides Wk 4 July 14 - annotated.pdf">Lecture Slides Wk 4 July 14 - annotated.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Lecture Slides Wk 4 July 15 - annotated.pdf">Lecture Slides Wk 4 July 15 - annotated.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Lecture Slides Wk 4 July 16 - annotated.pdf">Lecture Slides Wk 4 July 16 - annotated.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Lecture Slides Wk 4 July 17 - annotated.pdf">Lecture Slides Wk 4 July 17 - annotated.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Lecture Slides Wk 4 July 18 - annotated.pdf">Lecture Slides Wk 4 July 18 - annotated.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Lecture Slides Wk 5 July 21 - annotated.pdf">Lecture Slides Wk 5 July 21 - annotated.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Lecture Slides Wk 5 July 22 - annotated.pdf">Lecture Slides Wk 5 July 22 - annotated.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Lecture Slides Wk 5 July 23 - annotated.pdf">Lecture Slides Wk 5 July 23 - annotated.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Lecture Slides Wk 5 July 24 - annotated.pdf">Lecture Slides Wk 5 July 24 - annotated.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Lecture Slides Wk 5 July 25 - annotated.pdf">Lecture Slides Wk 5 July 25 - annotated.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Lecture Slides Wk 6 July 28 - annotated.pdf">Lecture Slides Wk 6 July 28 - annotated.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Lecture Slides Wk 6 July 29 - annotated.pdf">Lecture Slides Wk 6 July 29 - annotated.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Lecture Slides Wk 6 July 30 - annotated.pdf">Lecture Slides Wk 6 July 30 - annotated.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Lecture Slides Wk 6 July 31 - annotated.pdf">Lecture Slides Wk 6 July 31 - annotated.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Lecture Slides Wk 6 August 1 v2 - annotated.pdf">Lecture Slides Wk 6 August 1 v2 - annotated.pdf</a></span></p>
+<p><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="Lecture Slides Wk 7 Exam Review-annotated.pdf">Lecture Slides Wk 7 Exam Review-annotated.pdf</a></span></p>
+</td>
+</tr>
+</tbody>
+</table>
 
 
 
