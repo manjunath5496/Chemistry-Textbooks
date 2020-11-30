@@ -342,8 +342,16 @@ Professor David Sherrill's Notes on Quantum Chemistry</a></li>
 <h4>Reaction Dynamics</h4>
 <p><a href="AverageSpeed.pdf" data-smd-id="s149">Average Molecular Speed</a><br /><a href="CollisionTheory.pdf" data-smd-id="s150">Collision Theory</a><br /><a href="ThermoTS.pdf" data-smd-id="s151">Thermodynamic Transition State Theory- Eyring Equation</a><br /><a href="TSGibbs.pdf" data-smd-id="s152">Thermodynamic Transition State Theory- Gibbs Free Energy</a><br /><a href="EarlyLate.pdf" data-smd-id="s153">Energy Demand and PE Surfaces</a><br /><a href="Edisposal.pdf" data-smd-id="s154">Energy Disposal and PE Surfaces</a><br /><a href="StatMechFormulas.pdf" data-smd-id="s155">Statistical Mechanics and Reaction Dynamics Formulas</a></p>
 
-
-
+</br>
+<h3>Lab Experiments</h3>
+<ul>
+<li><a accesskey="8" title="" href="experiment%201%20-AIC.pdf">Experiment 1 Preparation and Properties of Hexamminechromium(III) Nitrate</a></li>
+<li><a accesskey="8" title="" href="IC%20exp%202-.pdf">Experiment 2 Synthesis of macrocyclic complexes of nickel(II)</a></li>
+<li><a accesskey="8" title="" href="IC%20exp%203.pdf">Experiment 3 Bioinorganic Chemistry: synthesis and properties of an oxygen-carrying cobalt complex which models hemoglobin</a></li>
+<li><a accesskey="8" title="" href="IC%20exp%204.pdf">Experiment 4 Crystal Field Theory and the Spectrochemical Series for Cobalt (III) Complexes</a></li>
+<li><a accesskey="8" title="" href="IC%20exp%205.pdf">Experiment 5 Tris-bipy complexes of Iron(II) and Ruthenium (II): Synthesis, Spectroscopy and Electrochemistry</a></li>
+</ul>
+</br>
 
 
 
