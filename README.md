@@ -295,28 +295,28 @@ Professor David Sherrill's Notes on Quantum Chemistry</a></li>
 
 <h4>Chem 226 Lecture Notes</h4>
 <ul>
-<li><a href="226lects/226_intro_lec.pdf">Introduction</a></li>
-<li><a href="226lects/226_aos_mos_lec.pdf">Orbitals: Atomic, Hybrid, and Molecular</a></li>
-<li><a href="226lects/226_lewis_str_lec.pdf">Lewis Structures</a></li>
-<li><a href="226lects/226_acid_base_lec.pdf">Equilibrium Reactions, Acids and Bases</a></li>
-<li><a href="226lects/226_alkstruct_lec.pdf">Alkanes and Cycloalkanes: Structure</a></li>
-<li><a href="226lects/226_alkenes-1_lec.pdf">Alkenes-1: Structure.&nbsp; Reaction Rate and Equilibria</a></li>
-<li><a href="226lects/226_alkene_rxns_lec.pdf">Alkenes-2: Reactions</a></li>
-<li><a href="226lects/226_dienes_alkynes_lec.pdf">Dienes and Alkynes</a></li>
-<li><a href="226lects/226_benzene_lec.pdf">Benzene</a></li>
-<li><a href="226lects/226_aromrxns_lec.pdf">Reactions of Aromatic Compounds</a></li>
-<li><a href="226lects/226_enantiomers_lec.pdf">Stereochemistry-1: Enantiomers</a></li>
-<li><a href="226lects/226_stereochem_lec.pdf">Stereochemistry-2: Further Adventures in Stereochemistry</a></li>
-<li><a href="226lects/226_alkylhalide_lec.pdf">Alkyl Halides: Preparation and Reactions.&nbsp; S<sub>N</sub>1, S<sub>N</sub>2, E1 &amp; E2 Mechanisms</a></li>
-<li><a href="226lects/226_alcohols_phenols_ethers_lec_s00.pdf">Alcohols, Phenols and Ethers</a></li>
-<li><a href="226lects/226_ald_ket_lec.pdf">Aldehydes and Ketones</a></li>
-<li><a href="226lects/226_carboxylic_acids_lec.pdf">Carboxylic Acids</a></li>
-<li><a href="226lects/226_acid_derivatives_lec.pdf">Carboxylic Acid Derivatives</a></li>
-<li><a href="226lects/226_alphasubst_lec.pdf">Alpha Substitution Reactions</a></li>
-<li><a href="226lects/226_amines_lec.pdf">Amines</a></li>
-<li><a href="226lects/226_amino_acids_lec.pdf">Amino Acids</a></li>
-<li><a href="226lects/226_polypeptides_lec.pdf">Polypeptides and Proteins</a></li>
-<li><a href="226lects/226_carbohydrates_lec.pdf">Carbohydrates</a></li>
+<li><a href="226_intro_lec.pdf">Introduction</a></li>
+<li><a href="226_aos_mos_lec.pdf">Orbitals: Atomic, Hybrid, and Molecular</a></li>
+<li><a href="226_lewis_str_lec.pdf">Lewis Structures</a></li>
+<li><a href="226_acid_base_lec.pdf">Equilibrium Reactions, Acids and Bases</a></li>
+<li><a href="226_alkstruct_lec.pdf">Alkanes and Cycloalkanes: Structure</a></li>
+<li><a href="226_alkenes-1_lec.pdf">Alkenes-1: Structure.&nbsp; Reaction Rate and Equilibria</a></li>
+<li><a href="226_alkene_rxns_lec.pdf">Alkenes-2: Reactions</a></li>
+<li><a href="226_dienes_alkynes_lec.pdf">Dienes and Alkynes</a></li>
+<li><a href="226_benzene_lec.pdf">Benzene</a></li>
+<li><a href="226_aromrxns_lec.pdf">Reactions of Aromatic Compounds</a></li>
+<li><a href="226_enantiomers_lec.pdf">Stereochemistry-1: Enantiomers</a></li>
+<li><a href="226_stereochem_lec.pdf">Stereochemistry-2: Further Adventures in Stereochemistry</a></li>
+<li><a href="226_alkylhalide_lec.pdf">Alkyl Halides: Preparation and Reactions.&nbsp; S<sub>N</sub>1, S<sub>N</sub>2, E1 &amp; E2 Mechanisms</a></li>
+<li><a href="226_alcohols_phenols_ethers_lec_s00.pdf">Alcohols, Phenols and Ethers</a></li>
+<li><a href="226_ald_ket_lec.pdf">Aldehydes and Ketones</a></li>
+<li><a href="226_carboxylic_acids_lec.pdf">Carboxylic Acids</a></li>
+<li><a href="226_acid_derivatives_lec.pdf">Carboxylic Acid Derivatives</a></li>
+<li><a href="226_alphasubst_lec.pdf">Alpha Substitution Reactions</a></li>
+<li><a href="226_amines_lec.pdf">Amines</a></li>
+<li><a href="226_amino_acids_lec.pdf">Amino Acids</a></li>
+<li><a href="226_polypeptides_lec.pdf">Polypeptides and Proteins</a></li>
+<li><a href="226_carbohydrates_lec.pdf">Carbohydrates</a></li>
 </ul>
 </br>
 <h4> Physical Chemistry Lecture Notes</h4>
